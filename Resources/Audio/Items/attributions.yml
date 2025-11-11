@@ -1,3 +1,26 @@
+# SPDX-FileCopyrightText: 2022 Pieter-Jan Briers
+# SPDX-FileCopyrightText: 2023 DocNight
+# SPDX-FileCopyrightText: 2023 Ed
+# SPDX-FileCopyrightText: 2023 Flareguy
+# SPDX-FileCopyrightText: 2023 HighTechPuddle
+# SPDX-FileCopyrightText: 2023 Jeff
+# SPDX-FileCopyrightText: 2023 Kara
+# SPDX-FileCopyrightText: 2023 Leon Friedrich
+# SPDX-FileCopyrightText: 2023 Nemanja
+# SPDX-FileCopyrightText: 2023 RieBi
+# SPDX-FileCopyrightText: 2023 Velcroboy
+# SPDX-FileCopyrightText: 2023 brainfood1183
+# SPDX-FileCopyrightText: 2023 faint
+# SPDX-FileCopyrightText: 2024 Ps3Moira
+# SPDX-FileCopyrightText: 2024 Tayrtahn
+# SPDX-FileCopyrightText: 2024 lzk
+# SPDX-FileCopyrightText: 2024 no
+# SPDX-FileCopyrightText: 2024 themias
+# SPDX-FileCopyrightText: 2025 Dylan Hunter Whittingham
+# SPDX-FileCopyrightText: 2025 Prole
+#
+# SPDX-License-Identifier: MPL-2.0
+
 - files: ["beep.ogg"]
   license: "CC0-1.0"
   copyright: "Created by Pól, converted to OGG and Mono by EmoGarbage"
@@ -144,3 +167,28 @@
   license: "CC0-1.0"
   copyright: "Original sound by vestibule-door on freesound.org, processed by DylanWhittingham"
   source: "https://freesound.org/people/vestibule-door/sounds/668985/"
+
+- files: [ "toolbox_close.ogg", "toolbox_open.ogg" ]
+  license: "CC0-1.0"
+  copyright: "Original sound by Nox_Sound on freesound.org. Converted to ogg and edited by themias."
+  source: "https://freesound.org/people/Nox_Sound/sounds/556648/"
+
+- files: [ "toolbox_insert.ogg" ]
+  license: "CC0-1.0"
+  copyright: "Original sound by j1987 on freesound.org. Converted to ogg and edited by themias."
+  source: "https://freesound.org/people/j1987/sounds/532137/"
+
+- files: [ "toolbox_remove.ogg" ]
+  license: "CC0-1.0"
+  copyright: "Original sound by kooust on freesound.org. Converted to ogg and edited by themias."
+  source: "https://freesound.org/people/kooust/sounds/452712/"
+
+- files: [ "flask_open1.ogg" ]
+  license: "CC-BY-3.0"
+  copyright: "Original sound by kwahmah_02 on freesound.org. Converted to ogg and edited by Prole0 (GitHub)"
+  source: "https://freesound.org/s/277503/"
+
+- files: [ "flask_close1.ogg" ]
+  license: "CC-BY-NC-4.0"
+  copyright: "Original sound by QEDionium on freesound.org. Coverted to ogg and edited by Prole0 (GitHub)"
+  source: "https://freesound.org/s/489803/"

@@ -1,3 +1,11 @@
+# SPDX-FileCopyrightText: 2020 AJCM-git
+# SPDX-FileCopyrightText: 2020 FL-OZ
+# SPDX-FileCopyrightText: 2021 Pieter-Jan Briers
+# SPDX-FileCopyrightText: 2021 Swept
+# SPDX-FileCopyrightText: 2025 Prole
+#
+# SPDX-License-Identifier: MPL-2.0
+
 - type: soundCollection
   id: canOpenSounds
   files:
@@ -19,3 +27,8 @@
   id: pop
   files:
   - /Audio/Items/pop.ogg
+
+- type: soundCollection
+  id: flaskOpenSounds
+  files:
+  - /Audio/Items/flask_open1.ogg

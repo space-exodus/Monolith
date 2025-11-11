@@ -1,4 +1,14 @@
+# SPDX-FileCopyrightText: 2024 Tayrtahn
+# SPDX-FileCopyrightText: 2025 Prole
+#
+# SPDX-License-Identifier: MPL-2.0
+
 - type: soundCollection
   id: bottleCloseSounds
   files:
   - /Audio/Items/bottle_close1.ogg
+
+- type: soundCollection
+  id: flaskCloseSounds
+  files:
+  - /Audio/Items/flask_close1.ogg

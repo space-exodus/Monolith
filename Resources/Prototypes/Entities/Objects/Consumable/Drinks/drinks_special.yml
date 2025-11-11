@@ -1,3 +1,26 @@
+# SPDX-FileCopyrightText: 2021 cheesePizza2
+# SPDX-FileCopyrightText: 2022 Leon Friedrich
+# SPDX-FileCopyrightText: 2022 Peptide90
+# SPDX-FileCopyrightText: 2022 corentt
+# SPDX-FileCopyrightText: 2023 0x6273
+# SPDX-FileCopyrightText: 2023 Chief-Engineer
+# SPDX-FileCopyrightText: 2023 IProduceWidgets
+# SPDX-FileCopyrightText: 2023 Moony
+# SPDX-FileCopyrightText: 2023 Nemanja
+# SPDX-FileCopyrightText: 2023 deltanedas
+# SPDX-FileCopyrightText: 2024 Lawdog
+# SPDX-FileCopyrightText: 2024 NotSoDana
+# SPDX-FileCopyrightText: 2024 SlamBamActionman
+# SPDX-FileCopyrightText: 2024 Tayrtahn
+# SPDX-FileCopyrightText: 2024 Verm
+# SPDX-FileCopyrightText: 2024 lzk
+# SPDX-FileCopyrightText: 2024 metalgearsloth
+# SPDX-FileCopyrightText: 2025 Prole
+# SPDX-FileCopyrightText: 2025 Tiniest Shark
+# SPDX-FileCopyrightText: 2025 Whatstone
+#
+# SPDX-License-Identifier: MPL-2.0
+
 - type: entity
   parent: BaseItem
   id: DrinkShaker
@@ -69,6 +92,8 @@
   - type: SolutionContainerVisuals
     maxFillLevels: 2
     fillBaseName: fill
+    inHandsMaxFillLevels: 1
+    inHandsFillBaseName: -fill-
 
 - type: entity
   parent: DrinkGlassBase
@@ -170,3 +195,33 @@
   - type: PhysicalComposition
     materialComposition:
       Steel: 75
+
+- type: entity
+  parent: DrinkBase
+  id: Pitcher
+  name: metal pitcher
+  description: A stainless steel insulated pitcher. Everyone's best friend in the morning.
+  components:
+  - type: SolutionContainerManager
+    solutions:
+      drink:
+        maxVol: 60
+  - type: Sprite
+    sprite: Objects/Consumable/Drinks/pitcher.rsi
+    layers:
+    - state: icon
+      map: ["enum.SolutionContainerLayers.Base"]
+    - state: fill-6
+      map: ["enum.SolutionContainerLayers.Fill"]
+      visible: false
+  - type: Appearance
+  - type: SolutionContainerVisuals
+    maxFillLevels: 6
+    fillBaseName: fill-
+    inHandsMaxFillLevels: 2
+    inHandsFillBaseName: -fill-
+  - type: PhysicalComposition
+    materialComposition:
+      Steel: 300
+  - type: FitsInDispenser
+    solution: drink
