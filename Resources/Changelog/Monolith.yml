@@ -15248,3 +15248,10 @@ Entries:
   id: 1691
   time: '2025-12-27T21:28:04.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2644
+- author: Wuffindy
+  changes:
+    - type: Tweak
+      message: Hotplates should be anchorable on table now
+  id: 1692
+  time: '2025-12-27T21:37:19.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2846
