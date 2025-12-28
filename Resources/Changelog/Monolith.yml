@@ -15287,3 +15287,14 @@ Entries:
   id: 1696
   time: '2025-12-28T03:44:22.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2878
+- author: Redrover1760
+  changes:
+    - type: Tweak
+      message: Minor hydrakin tweakening
+    - type: Fix
+      message: Thermal body regulation actually works properly again.
+    - type: Fix
+      message: Hydrakin are actually effected by hydrakin specific chemicals now
+  id: 1697
+  time: '2025-12-28T06:52:35.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2882
