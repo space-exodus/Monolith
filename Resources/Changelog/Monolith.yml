@@ -15271,3 +15271,10 @@ Entries:
   id: 1694
   time: '2025-12-28T03:36:29.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2876
+- author: NazrinNya
+  changes:
+    - type: Tweak
+      message: '"Hide+farify Faction Bases" has been reverted.'
+  id: 1695
+  time: '2025-12-28T03:43:42.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2822
