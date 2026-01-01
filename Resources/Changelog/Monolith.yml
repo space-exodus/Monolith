@@ -15542,3 +15542,10 @@ Entries:
   id: 1724
   time: '2026-01-01T15:02:08.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2903
+- author: tonotom1
+  changes:
+    - type: Tweak
+      message: Laser rifle buffed to not be inferior to laser pistol
+  id: 1725
+  time: '2026-01-01T15:08:17.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2918
