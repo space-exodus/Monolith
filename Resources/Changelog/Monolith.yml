@@ -15736,3 +15736,20 @@ Entries:
   id: 1747
   time: '2026-01-04T09:31:07.0000000+00:00'
   url: https://github.com/Monolith-Station/Monolith/pull/2940
+- author: Ilya246
+  changes:
+    - type: Add
+      message: >-
+        Drone spawning distances are now differentiated. Scarier drones farther
+        out.
+    - type: Tweak
+      message: Drone loot tweaked.
+    - type: Tweak
+      message: >-
+        Medusa (outer drone) has been changed to an attacker drone and now has 2
+        blackboxes.
+    - type: Tweak
+      message: Buffed Shard, the drone gun.
+  id: 1748
+  time: '2026-01-04T21:05:59.0000000+00:00'
+  url: https://github.com/Monolith-Station/Monolith/pull/2948
