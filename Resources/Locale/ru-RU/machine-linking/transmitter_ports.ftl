@@ -50,3 +50,7 @@ signal-port-name-power-discharging = Разрядка
 signal-port-description-power-discharging = Этот порт задействуется с высоким уровнем сигнала когда батарея разряжается, и с низким когда нет.
 signal-port-name-item-detected = Обнаружение
 signal-port-description-item-detected = Этот порт даёт сигнал каждый раз, когда обнаруживает предмет.
+
+signal-port-description-timer-trigger = This port is invoked whenever the timer triggers.
+
+signal-port-name-timer-trigger = Timer Trigger

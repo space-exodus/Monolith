@@ -19,3 +19,5 @@ set-game-preset-preset-set-finite-with-decoy =
         [few] следующие { $rounds } раунда
        *[other] следующие { $rounds } раундов
     }, отображая в лобби { $decoy }.
+
+set-game-preset-preset-set = Set game preset to "{$preset}"

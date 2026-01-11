@@ -199,3 +199,5 @@ marking-HumanHairVlongfringe = Очень короткая (Чёлка)
 marking-HumanHairVolaju = Воладзю
 marking-HumanHairLongWithBangs = Локоны с косами (Чёлка)
 marking-HumanHairWisp = Пряди
+
+marking-HumanHairCrewcut2 = Crewcut 2

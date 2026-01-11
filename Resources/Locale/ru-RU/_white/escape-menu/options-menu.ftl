@@ -4,3 +4,6 @@ ui-options-function-open-emotions-menu = Открыть меню эмоций
 ui-options-function-look-up = Присмотреться/Прицелиться
 ui-options-function-auto-get-up = Автоматически вставать при падении
 ui-options-function-hold-look-up = Удерживать клавишу для прицеливания
+ui-options-detailed-examine = Show detailed examine text
+
+ui-options-coalesce-identical-messages = Coalesce identical messages in chat

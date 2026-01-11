@@ -10,3 +10,7 @@ vending-machine-restock-done-others =
         [epicene] закончили
        *[neuter] закончило
     } пополнять { $target }.
+
+vending-machine-restock-done = { $user } finishes restocking { $target }.
+
+vending-machine-restock-start = { $user } starts restocking { $target }.

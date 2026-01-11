@@ -13,3 +13,7 @@ mech-slot-display = Доступно слотов: { $amount }
 mech-no-enter = Вы не можете пилотировать это.
 mech-eject-pilot-alert = { $user } вытаскивает пилота из { $item }!
 mech-construction-guide-string = Все механические детали должны быть прикреплены к каркасу меха.
+
+mech-custom-action-popup = Mass scanner activated! Opening radar display...
+
+gun-no-fire-station = GRAVITY DETECTED!! Overriding weapon controls!

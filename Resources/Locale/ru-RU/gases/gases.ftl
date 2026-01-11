@@ -7,3 +7,11 @@ gases-water-vapor = Водяной пар
 gases-ammonia = Аммиак
 gases-n2o = Оксид азота
 gases-frezon = Фрезон
+
+gases-healium = Healium
+
+gases-pluoxium = Pluoxium
+
+gases-bz = BZ
+
+gases-nitrium = Nitrium

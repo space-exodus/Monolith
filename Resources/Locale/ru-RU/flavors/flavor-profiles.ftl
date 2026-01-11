@@ -354,3 +354,6 @@ flavor-complex-punishment = как наказание
 flavor-complex-artifact-glue = как размолотый артефакт
 flavor-weh = как вех
 flavor-hew = как хев
+
+flavor-complex-pear = like pears
+# Frontier: cottons<cotton

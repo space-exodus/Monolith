@@ -197,3 +197,11 @@ guide-entry-rules-ban-durations = Длительности банов
 guide-entry-rules-sl-crime-list = Список преступлений
 guide-entry-writing = Разметка письма
 guide-entry-glossary = Словарь терминов
+
+guide-entry-surgery = Surgery
+
+guide-entry-utilitysurgeries = Utility Surgeries
+
+guide-entry-partmanipulation = Part Manipulation
+
+guide-entry-organmanipulation = Organ Manipulation

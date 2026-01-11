@@ -71,3 +71,32 @@ book-text-combat-bakery-kit =
     Ломтик масла x 1
     Осколок стекла x 1
     Время приготовления: 5 секунд
+
+book-text-cargo-instructions = You have tried to activate the machine without any product.
+
+      To use the machine properly, insert one of the requested materials for a port's specific dispenser with your hands, and the reward will be deposited on top of the machine.
+
+      These cargo crates can be bought and/or sold at the following locations:
+      - TSFMC Flagship Halcyon - Sell Only
+      - Camelot Station - Buy and Sell
+      - Trade Mall - Buy and Sell
+      - Cargo Depots - Buy and Sell
+      - PDV Base - Sell Only
+      - PDV Jupiter - Sell Only
+
+      This paper will automatically disintegrate after 2 minutes.
+
+book-text-cargo-outage = Dear User,
+
+      Due to an unfortunate anomaly in trade route traffic, cargo venders have been unable to restock their wares.
+
+      Leading theories for this sudden outage are still being peer-reviewed, but so far implicate the nebulous phenomenon of "space wind" as the root cause.
+
+      In the mean time, many alternative cargo sources are available in the sector - this includes reposession of abandoned wares, delivery of desired materials to constituents,
+      and salvage of abandoned freighters.
+
+      Further details are being refined. We appreciate your patience.
+
+      $10 have been retracted from your account for a convenience fee.
+
+      This paper will automatically disintegrate after 2 minutes.

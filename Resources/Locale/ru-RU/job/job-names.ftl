@@ -3,7 +3,6 @@ job-name-security = Офицер Службы Безопасности
 job-name-cadet = Кадет Службы Безопасности
 job-name-hos = Глава Службы Безопасности
 job-name-detective = Детектив
-job-name-brigmedic = Бригмедик
 job-name-borg = Борг
 job-name-scientist = Учёный
 job-name-research-assistant = Научный Ассистент
