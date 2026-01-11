@@ -1,0 +1,17 @@
+inventory-slot-shoes = Обувь
+inventory-slot-jumpsuit = Комбинезон
+inventory-slot-outer-clothing = Верхняя одежда
+inventory-slot-gloves = Перчатки
+inventory-slot-neck = Шея
+inventory-slot-mask = Маска
+inventory-slot-eyes = Глаза
+inventory-slot-ears = Уши
+inventory-slot-head = Голова
+inventory-slot-pocket1 = Карман 1
+inventory-slot-pocket2 = Карман 2
+inventory-slot-pocket3 = Карман 3
+inventory-slot-pocket4 = Карман 4
+inventory-slot-suit-storage = Спина
+inventory-slot-id = ID
+inventory-slot-belt = Пояс
+inventory-slot-back = Рюкзак
