@@ -1,2 +1,2 @@
-ent-CrateVendingMachineRestockPrideFilled = { ent-CratePlasticBiodegradable }
-    .desc = { ent-CratePlasticBiodegradable.desc }
+ent-CrateVendingMachineRestockPrideFilled = { ent-CrateGeneric }
+    .desc = { ent-CrateGeneric.desc }
