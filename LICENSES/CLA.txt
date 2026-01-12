@@ -1,0 +1,139 @@
+CONTRIBUTOR LICENSE AGREEMENT
+
+Version 1.0, January 12, 2026
+
+IMPORTANT NOTICE FOR INTERNATIONAL CONTRIBUTORS
+
+This Agreement is governed by Russian law with international 
+arbitration provisions. By contributing, you acknowledge that:
+
+1. Your contributions may be subject to export control regulations
+   of your country, the United States (EAR), and the European Union
+2. The Project contains code originally licensed under AGPLv3 from
+   international sources
+3. You are responsible for ensuring your compliance with all
+   applicable laws and regulations
+
+If you are unable to agree to these terms due to legal restrictions
+in your jurisdiction, please contact us before contributing.
+
+This Contributor License Agreement ("Agreement") documents the rights granted by Contributors to the Project Maintainers.
+
+By submitting code or other content ("Contribution") to this Project, you ("Contributor") accept and agree to the following terms and conditions.
+
+1. DEFINITIONS
+
+1.1. "Project" means the software project maintained at https://github.com/space-exodus/Monolith.
+1.2. "Project Maintainers" means the individuals or entities that manage the Project.
+1.3. "Contribution" means any original work of authorship, including modifications or additions to existing work, that is intentionally submitted by Contributor for inclusion in the Project.
+1.4. "Current Project License" means the license under which new Contributions 
+     are accepted, which is Mozilla Public License Version 2.0 (MPL-2.0).
+     Note: Due to inherited AGPLv3 code, the Project as a whole is currently
+     distributed under AGPLv3, but new Contributions are licensed under MPL-2.0.
+
+2. CONTRIBUTION LICENSE GRANT
+
+2.1. Copyright License. Contributor hereby grants to Project Maintainers a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable copyright license to reproduce, prepare derivative works of, publicly display, publicly perform, sublicense, and distribute Contributor's Contributions and such derivative works under the Current Project License.
+
+2.2. Patent License. Contributor hereby grants to Project Maintainers a perpetual, worldwide, non-exclusive, no-charge, royalty-free, irrevocable patent license to make, have made, use, offer to sell, sell, import, and otherwise transfer the Contribution, where such license applies only to those patent claims licensable by Contributor that are necessarily infringed by their Contribution alone or by combination of their Contribution with the Project to which such Contribution was submitted.
+
+2.3. Relicensing Right. Contributor grants Project Maintainers the right to relicense Contributor's Contributions under any other license, including but not limited to proprietary licenses, at Project Maintainers' sole discretion. This right includes the ability to distribute future versions of the Project, or portions thereof containing Contributor's Contributions, under different licensing terms than the Current Project License.
+
+3. CONTRIBUTOR REPRESENTATIONS
+
+3.1. Originality. Contributor represents that each Contribution is Contributor's original creation and that Contributor has sufficient rights to grant the licenses in Section 2.
+
+3.2. Third-Party Material. If Contributor's Contribution includes or is based on third-party material, Contributor represents that such material is properly licensed under terms compatible with this Agreement and the Current Project License.
+
+3.3. No Warranty. Contributor provides Contributions on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+
+4. CONTRIBUTOR RIGHTS
+
+4.1. Copyright Retention. Contributor retains all right, title, and interest in and to their Contributions.
+
+4.2. Independent Use. Contributor may use, distribute, and license their Contributions independently of this Project under any terms they choose.
+
+5. PROJECT LICENSING STATUS
+
+5.1. Current Licensing. Contributor acknowledges that:
+     a) The Project currently contains code licensed under multiple licenses including MIT, AGPLv3, and MPL-2.0.
+     b) Due to the presence of AGPLv3 code, current distributions of the Project must be licensed under AGPLv3.
+     c) Project Maintainers are actively working to remove AGPLv3 dependencies.
+
+5.2. Future Licensing. Contributor acknowledges and agrees that Project Maintainers may, at their discretion:
+     a) Change the licensing of future versions of the Project.
+     b) Offer different licensing terms for different versions or editions.
+     c) Transition to proprietary licensing for future versions once AGPLv3 dependencies are removed.
+
+5.3. License Notice. All Contributions will be marked with appropriate copyright and licensing notices as determined by Project Maintainers.
+
+6. GOVERNING LAW AND JURISDICTION
+
+6.1. Governing Law. This Agreement shall be governed by and construed 
+     in accordance with the laws of the Russian Federation, without 
+     regard to its conflict of laws principles.
+
+6.2. Dispute Resolution. Any dispute, controversy or claim arising out 
+     of or in connection with this Agreement, including its conclusion, 
+     interpretation, performance, breach, termination or invalidity, 
+     shall be finally settled by arbitration in accordance with the 
+     Arbitration Rules of the International Commercial Arbitration 
+     Court at the Chamber of Commerce and Industry of the Russian 
+     Federation (ICAC at the RF CCI).
+
+6.3. Arbitration Details. The arbitration shall be conducted:
+     (a) In English or Russian
+     (b) With three arbitrators appointed in accordance with ICAC Rules
+     (c) The place of arbitration shall be Moscow, Russia
+     (d) The arbitral award shall be final and binding on both parties
+
+6.4. Interim Measures. Nothing in this clause shall prevent either 
+     party from seeking interim or protective measures in any court 
+     of competent jurisdiction.
+
+7. ENTIRE AGREEMENT
+
+This Agreement constitutes the entire agreement between the parties regarding Contributions to the Project and supersedes all prior agreements.
+
+8. ACCEPTANCE MECHANISM
+
+8.1. By submitting a Pull Request, creating a commit, or otherwise contributing to the Project, Contributor agrees to be bound by this Agreement.
+
+8.2. For significant Contributions, Project Maintainers may request explicit confirmation of this Agreement through digital signature or other means.
+
+9. NO OBLIGATION TO USE
+
+Project Maintainers are under no obligation to accept or use any Contribution.
+
+10. NOTICES
+
+All notices under this Agreement shall be in writing and deemed given when delivered electronically to Contributor's email address associated with their contribution.
+
+11. SEVERABILITY
+
+If any provision of this Agreement is held invalid or unenforceable,
+the remaining provisions will remain in full force and effect.
+
+12. NO IMPLIED WAIVERS
+
+Failure to enforce any provision of this Agreement shall not constitute
+a waiver of any future enforcement of that or any other provision.
+
+13. AMENDMENTS TO THIS AGREEMENT
+
+13.1. Project Maintainers reserve the right to modify this Agreement at any time.
+      The modified version will become effective upon posting in the Project
+      repository or other official communication channel.
+
+13.2. Continued contribution to the Project after modifications to this Agreement
+      constitutes acceptance of the modified terms. If Contributor does not agree
+      with the modified terms, they must cease all contributions immediately.
+
+13.3. Project Maintainers are not obligated to provide individual notice of
+      amendments to Contributors. It is the Contributor's responsibility to
+      periodically review this Agreement for changes.
+
+13.4. For ongoing contributions, if a Contributor submits a Contribution after
+      the effective date of a modified Agreement without explicit objection,
+      they are deemed to have accepted the modified terms for that and all
+      subsequent Contributions.
