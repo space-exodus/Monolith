@@ -20,14 +20,11 @@ comp-stack-becomes-full = Стопка теперь заполнена.
 comp-stack-split = Вы разделили стопку.
 comp-stack-split-halve = Разделить пополам
 comp-stack-split-too-small = Стопка слишком мала для разделения.
-
 ui-custom-stack-split-apply = Split
+
 # End cherry-pick from ss14#32938
 
-comp-stack-split-size = Max: {$size}
-
+comp-stack-split-size = Max: { $size }
 ui-custom-stack-split-title = Split Amount
-
 ui-custom-stack-split-line-edit-placeholder = Amount
-
 comp-stack-split-custom = Split amount...

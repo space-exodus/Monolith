@@ -1,1 +1,1 @@
-namepreset-lastnofirst = {$last}-no-{$first}
+namepreset-lastnofirst = { $last }-no-{ $first }

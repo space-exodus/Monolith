@@ -87,7 +87,5 @@ cargo-acquisition-slip-body = [head=3]Детали актива[/head]
     { "[head=3]Детали покупки[/head]" }
     { "[bold]Заказчик:[/bold]" } { $orderer }
     { "[bold]Причина:[/bold]" } { $reason }
-
 cargo-console-nf-no-bank-account = No bank account found
-
 cargo-telepad-delay-upgrade = Teleport delay

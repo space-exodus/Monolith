@@ -4,4 +4,6 @@ ent-RadioJammer = { ent-AppraisalTool }
     .suffix = Глушитель связи
 ent-XenoborgRadioJammer = глушитель связи ксеноборгов
     .desc = { ent-RadioJammer.desc }
+
 # Corvax-HiddenDesc-End
+

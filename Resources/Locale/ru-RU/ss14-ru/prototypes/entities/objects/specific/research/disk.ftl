@@ -1,5 +1,17 @@
 ent-ResearchDisk = диск исследовательских очков (1000)
     .desc = Диск для сервера РНД, содержащий 1000 очков.
+ent-ResearchDisk35000 = research point disk (35000)
+    .desc = A disk for the R&D server containing 35000 points.
+ent-ResearchDisk65000 = research point disk (65000)
+    .desc = A disk for the R&D server containing 65000 points.
+ent-RogueSiliconResearchDisk50000 = research point disk (50000)
+    .desc = A rogue silicon data disk for an R&D server containing 50000 points.
+ent-RogueSiliconResearchDisk25000 = research point disk (25000)
+    .desc = A rogue silicon data disk for an R&D server containing 25000 points.
+ent-RogueSiliconResearchDisk10000 = research point disk (10000)
+    .desc = A rogue silicon data disk for an R&D server containing 10000 points.
+ent-RogueSiliconResearchDisk5000 = research point disk (5000)
+    .desc = A rogue silicon data disk for an R&D server containing 5000 points.
 ent-ResearchDisk5000 = диск исследовательских очков (5000)
     .desc = Диск для сервера РНД, содержащий 5000 очков.
 ent-ResearchDisk10000 = диск исследовательских очков (10000)

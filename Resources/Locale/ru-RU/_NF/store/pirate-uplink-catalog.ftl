@@ -6,6 +6,7 @@ store-category-pirateutility = Utility
 store-category-pirateammo = Ammunition
 store-category-pirateexplosives = Explosives
 store-category-pirategambling = Gambling
+
 # Mono edit end
 
 uplink-pirate-hardsuit-name = PDV Hardsuit

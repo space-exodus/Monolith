@@ -1,1 +1,1 @@
-﻿player-tab-balance = Balance
+player-tab-balance = Balance

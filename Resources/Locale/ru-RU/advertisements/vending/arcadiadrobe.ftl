@@ -29,4 +29,3 @@ advertisement-arcadiadrobe-28 = Our suits are moisture-resistant, which means yo
 advertisement-arcadiadrobe-29 = The best in the galaxy!
 advertisement-arcadiadrobe-30 = What could be better than the smell of our uniform in the morning?
 advertisement-arcadiadrobe-31 = Can you turn off that mic, Duke? Really dont want unauthorized knowledge of Elysium.
-

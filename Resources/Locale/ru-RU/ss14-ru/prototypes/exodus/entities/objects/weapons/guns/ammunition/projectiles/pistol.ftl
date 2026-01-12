@@ -6,4 +6,3 @@ ent-BulletPistolUraniumLight = пуля (.15 авто урановая)
     .desc = { ent-BaseBulletUranium.desc }
 ent-BulletPistolAlt = пуля (.25 авто)
     .desc = { ent-BaseBullet.desc }
-

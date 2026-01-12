@@ -23,5 +23,4 @@ comms-console-announcement-title-centcom = Центрального Команд
 comms-console-announcement-title-nukie = Синдиката
 comms-console-announcement-title-station-ai = Станционного ИИ
 comms-console-announcement-title-wizard = Мага
-
 comms-console-announcement-title-rogue = Phaethon Dynasty Imperial Vanguard

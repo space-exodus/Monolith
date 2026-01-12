@@ -339,13 +339,8 @@ uplink-contraband-lighter-name = Коробка контрабандных за�
 uplink-contraband-lighter-desc = Загадочная коробка, в которой гарантировано будет брендовая зажигалка Синдиката. Не требует топлива.
 uplink-acolyte-armor-name = Доспехи аколита
 uplink-acolyte-armor-desc = Маст-хэв для любого уважающего себя лидера культа. Зловеще-выглядящие доспехи, сделанные из костей, и удивительно устойчивые к повреждениям.
-
 uplink-clothing-thieving-gloves-name = Thieving Gloves
-
 uplink-clothing-thieving-gloves-desc = Discretely steal from pockets and improve your thieving technique with these fancy new gloves. They even look like normal gloves!
-
 uplink-revolver-python-desc = A brutally simple, effective, and loud Syndicate revolver. Comes loaded with armor-piercing rounds. Uses .45 magnum.
-
 uplink-revolver-python-name = Python
-
 uplink-speedloader-45_magnum-name = Speedloader (.45 magnum AP)

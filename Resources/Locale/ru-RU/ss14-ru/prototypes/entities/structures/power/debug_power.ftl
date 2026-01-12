@@ -34,4 +34,3 @@ ent-DebugSubstationWall = { ent-SubstationWallBasic }
 ent-DebugSubstationWallRecharging = { ent-SubstationWallBasic }
     .suffix = DEBUG, Автозарядка
     .desc = { ent-SubstationWallBasic.desc }
-

@@ -155,39 +155,39 @@ book-cnc-sheet =
     9: Название  Время накладывания  Дистанция  Длительность  Компоненты  Ритуал?
     --------------------------------------------------------------------------------------
     Карпы и крипты 5 ред.
-
+    
     Constitution =     10   (+0) 10 Base
-
+    
     Wisdom       =     10   (+0) 10 Base
-
+    
     Strength     =     10   (+0) 10 Base
-
+    
     Charisma     =     10   (+0) 10 Base
-
+    
     Proficiency Bonus =
     Perception (passive wisdom) =
-
+    
     Racial (Race)
-
+    
     Class (Class)
-
-
+    
+    
     --------------------------------------------------------------------------------------
     SECTION 3:  SAVING THROWS
     --------------------------------------------------------------------------------------
-
+    
     ( )Strength     =      +0
     ( )Dexterity    =      +0
     ( )Constitution =      +0
     ( )Intelligence =      +0
     ( )Wisdom       =      +0
     ( )Charisma     =      +0
-
-
+    
+    
     --------------------------------------------------------------------------------------
     SECTION 4:  SKILLS
     --------------------------------------------------------------------------------------
-
+    
     ( )  Acrobatics (Dex)      +0       ( )  Medicine (Wis)        +0
     ( )  Animal Handling (Wis) +0       ( )  Nature (Int)          +0
     ( )  Arcana (Int)          +0       ( )  Perception (Wis)      +0
@@ -197,72 +197,72 @@ book-cnc-sheet =
     ( )  Insight (Wis)         +0       ( )  Sleight of Hand (Dex) +0
     ( )  Intimidation (Cha)    +0       ( )  Stealth (Dex)         +0
     ( )  Investigation (Int)   +0       ( )  Survival (Wis)        +0
-
-
+    
+    
     --------------------------------------------------------------------------------------
     SECTION 5:  COMBAT & HEALTH
     --------------------------------------------------------------------------------------
-
-
+    
+    
     Armor Class          :
     Initiative (passive) :
     Speed                :
-
+    
     Hit Dice             :
     Max Hit Points       :
     Current Hit Points   :
     Temporary Hit Points :
-
+    
     ATTACKS
     Weapon type(Melee or Ranged)   /   Bonus   /   Damage (Type)
-
+    
     --------------------------------------------------------------------------------------
     SECTION 6:  BACKGROUND
     --------------------------------------------------------------------------------------
-
+    
     Age / Gender         :
     Height / Weight      :
     Eyes / Skin / Hair   :
     Description          :
-
+    
     Background           :
     Skill Proficiencies  :
     Tool Proficiencies   :
     Languages            :
-
+    
     Features             :
     Con of Choice        :
     Traits               :
     Ideal                :
     Bonds                :
     Flaws                :
-
+    
     --------------------------------------------------------------------------------------
     SECTION 7: EXTRAS
     --------------------------------------------------------------------------------------
     Equipment List
     Description                 Cost       Weight
-
-
+    
+    
     lbs
-
+    
     Wealth
     PP         :
     EP         :
     GP         :
     SP         :
     CP         :
-
+    
     Gems         :
     Jewelry      :
     Other        :
     Magic Items  :
-
-
+    
+    
     --------------------------------------------------------------------------------------
     SECTION 8: SPELLCASTING
     --------------------------------------------------------------------------------------
-
+    
     Spell Level:
     Spell Save DC:
     Spell Attack Mod:
@@ -276,30 +276,30 @@ book-cnc-sheet =
       7: (MAX) (USED)
       8: (MAX) (USED)
       9: (MAX) (USED)
-
+    
     Cantrips
     Name  Casting Time  Range  Duration  Components
-
+    
     1: Name  Casting Time  Range  Duration  Components  Ritual?
-
+    
     2: Name  Casting Time  Range  Duration  Components  Ritual?
-
+    
     3: Name  Casting Time  Range  Duration  Components  Ritual?
-
+    
     4: Name  Casting Time  Range  Duration  Components  Ritual?
-
+    
     5: Name  Casting Time  Range  Duration  Components  Ritual?
-
+    
     6: Name  Casting Time  Range  Duration  Components  Ritual?
-
+    
     7: Name  Casting Time  Range  Duration  Components  Ritual?
-
+    
     8: Name  Casting Time  Range  Duration  Components  Ritual?
-
+    
     9: Name  Casting Time  Range  Duration  Components  Ritual?
     --------------------------------------------------------------------------------------
     Carps and Crypts 5e
-
+    
     Dexterity    =     10   (+0) 10 Base
-
+    
     Intelligence =     10   (+0) 10 Base

@@ -17,12 +17,10 @@ atmos-gas-Frezon = Frezon
 atmos-gas-NitrousOxide = { gas-nitrous-oxide-abbreviation }
 atmos-gas-WaterVapor = { gas-water-vapor-abbreviation }
 atmos-gas-Ammonia = { gas-ammonia-abbreviation }
-
 gas-healium-abbreviation = PN₂OF
+
 # Funky Station
 
 gas-nitrium-abbreviation = TPN₃O
-
 gas-pluoxium-abbreviation = C₂O₆
-
 gas-bz-abbreviation = PN₂O

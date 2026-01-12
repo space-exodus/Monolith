@@ -12,19 +12,11 @@ reagent-name-nitrous-oxide = оксид азота
 reagent-desc-nitrous-oxide = Знаешь, как всё кажется смешнее, когда ты устал? Так вот...
 reagent-name-frezon = фрезон
 reagent-desc-frezon = Высокоэффективный хладагент... и галлюциноген.
-
 reagent-desc-healium = A powerful sleeping agent with regenerative properties.
-
 reagent-desc-nitrium = A strong stimulant that will improve reflexes and stamina, though excessive inhalation may lead to lung failure.
-
 reagent-desc-pluoxium = A gas that could supply even more oxygen to the bloodstream when inhaled, without being an oxidizer.
-
 reagent-name-nitrium = nitrium
-
 reagent-name-bz = bz
-
 reagent-name-pluoxium = pluoxium
-
 reagent-desc-bz = A potent hallucinogenic that also puts slimes into stasis.
-
 reagent-name-healium = healium

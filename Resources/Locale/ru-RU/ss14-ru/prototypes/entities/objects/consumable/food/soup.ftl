@@ -88,3 +88,7 @@ ent-FoodSoupBungo = карри бунго
     .desc = Острый овощной карри, приготовленный с использованием скромного фрукта бунго. Экзотика!
 ent-FoodSoupEscargot = эскарго
     .desc = Сытное сливочное блюдо с улитками, бон апетит!
+ent-FoodPlainGrits = buttered grits
+    .desc = A savory bowl of grits, topped with a pat of butter.
+ent-FoodCheeseGrits = cheese grits
+    .desc = A thick, savory bowl of cheesy grits.

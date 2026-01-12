@@ -2,7 +2,6 @@ chat-emote-name-spin = Spin
 chat-emote-name-jump = Jump
 chat-emote-msg-spin = spins!
 chat-emote-msg-jump = jumps!
-
 # Names
 chat-emote-name-trill = Trill
 chat-emote-name-warble = Warble
@@ -10,7 +9,6 @@ chat-emote-name-wurble = Wurble
 chat-emote-name-mars = Mars
 chat-emote-name-bagawk = Bagawk
 chat-emote-name-yip = Yip
-
 # Message
 chat-emote-msg-trill = trills!
 chat-emote-msg-warble = warbles!

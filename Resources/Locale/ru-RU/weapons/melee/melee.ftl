@@ -7,7 +7,5 @@ melee-battery-examine =
         [few] удара
        *[other] ударов
     }.
-
-melee-inject-failed-armor = Your {$weapon} cannot inject through armor!
-
+melee-inject-failed-armor = Your { $weapon } cannot inject through armor!
 melee-inject-failed-jumpsuit = You cannot inject through their protective suit!

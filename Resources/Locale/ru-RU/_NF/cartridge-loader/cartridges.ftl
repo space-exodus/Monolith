@@ -2,7 +2,6 @@
 appraisal-program-name = AppraiseAll Plus
 appraisal-label-name = Item
 appraisal-label-price = Appraised Price
-
 # Ledger cartridge
 ledger-program-name = CreditFlow Lite
 ledger-header = Sector Ledger
@@ -12,14 +11,12 @@ ledger-total-expenses = Total Expenses
 ledger-no-expenses = None
 ledger-balance = Balance:
 ledger-no-balance = N/A
-
 ledger-tab-Frontier = Colonial Outpost
 ledger-tab-Nfsd = TSFMC
 ledger-tab-Medical = Medical Dispatch
 ledger-tab-BlackMarket = Black Market
 # Fallback, if this displays, something's wrong.
 ledger-tab-Unknown = Unknown
-
 ledger-entry-type-TickingIncome = Subsidies
 ledger-entry-type-VendorTax = Vendor Taxes
 ledger-entry-type-CargoTax = Cargo Taxes

@@ -85,3 +85,6 @@ ent-ScrapGeneratorFrame = каркас генератора
 ent-ScrapGeneratorFuelTank = топливный бак
     .desc = Топливный бак из генератора С.У.П.Е.Р.П.А.К.М.А.Н.. Индикатор показывает, что топлива осталось немного.
     .suffix = { ent-BaseScrap.suffix }
+ent-ScrapGeneratorFuelTankPlasma = { ent-ScrapGeneratorFuelTank }
+    .desc = A fuel tank from a portable generator. The gauge indicates it's got a little plasma left.
+    .suffix = Scrap, Plasma

@@ -1,3 +1,5 @@
+ent-GasPipeSansLayers = gas pipe
+    .desc = Holds gas.
 ent-GasPipeBase = труба
     .desc = Содержит газ.
 ent-GasPipeHalf = { ent-GasPipeBase }

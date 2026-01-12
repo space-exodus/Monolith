@@ -1,12 +1,10 @@
 salvage-expedition-window-finish = Finish expedition
-salvage-expedition-announcement-early-finish = The expedition was completed ahead of schedule. Shuttle will depart in {$departTime} seconds.
+salvage-expedition-announcement-early-finish = The expedition was completed ahead of schedule. Shuttle will depart in { $departTime } seconds.
 salvage-expedition-shuttle-not-found = Cannot locate shuttle.
-salvage-expedition-not-everyone-aboard = Not all crew aboard! {CAPITALIZE(THE($target))} is still out there!
-
+salvage-expedition-not-everyone-aboard = Not all crew aboard! { CAPITALIZE(THE($target)) } is still out there!
 # Salvage mods
 salvage-time-mod-standard-time = Normal Duration
 salvage-time-mod-rush = Rush
-
 salvage-weather-mod-heavy-snowfall = Heavy Snowfall
 salvage-weather-mod-medium-snowfall = Medium Snowfall
 salvage-weather-mod-light-snowfall = Light Snowfall
@@ -21,16 +19,13 @@ salvage-weather-mod-rain-light = Light Rain
 salvage-weather-mod-rain = Rain
 salvage-weather-mod-storm = Storm
 salvage-weather-mod-none = Clear Weather
-
 salvage-biome-mod-shadow = Shadow
-
 salvage-dungeon-mod-cave-factory = Cave Factory
 salvage-dungeon-mod-med-sci = Medical Science Base
 salvage-dungeon-mod-factory-dorms = Factory Dorms
 salvage-dungeon-mod-lava-mercenary = Lava Mercenary Base
 salvage-dungeon-mod-virology-lab = Virology Lab
 salvage-dungeon-mod-salvage-outpost = Salvage Outpost
-
 salvage-air-mod-1 = 82 N2, 21 O2
 salvage-air-mod-2 = 72 N2, 21 O2, 10 N2O
 salvage-air-mod-3 = 72 N2, 21 O2, 10 H2O

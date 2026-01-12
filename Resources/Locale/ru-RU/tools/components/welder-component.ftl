@@ -13,5 +13,4 @@ welder-component-suicide-unlit-others-message = { $victim } бьёт себя н
 welder-component-suicide-unlit-message = Вы ударили себя незажженной сварочной горелкой!
 welder-component-after-interact-refueled-message = Заправлено!
 welder-component-already-full = Сварочный аппарат уже заправлен.
-
-welder-component-on-examine-less-detailed-message = Fuel: [color={$colorName}]{$fuelLeft}/{$fuelCapacity}[/color]
+welder-component-on-examine-less-detailed-message = Fuel: [color={ $colorName }]{ $fuelLeft }/{ $fuelCapacity }[/color]

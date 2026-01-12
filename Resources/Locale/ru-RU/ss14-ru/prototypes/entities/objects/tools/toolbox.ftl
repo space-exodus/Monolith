@@ -18,3 +18,4 @@ ent-ToolboxSyndicate = чёрный ящик для инструментов
 # Corvax-HiddenDesc-End
 ent-ToolboxGolden = золотой ящик для инструментов
     .desc = Ящик для инструментов из чистого золота. Рэперы убили бы за него.
+

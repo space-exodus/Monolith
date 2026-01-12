@@ -82,5 +82,4 @@ ion-storm-law-concept-verb = { $concept } ЭТО { $verb } { $subjects }
 
 # leaving out renaming since its annoying for players to keep track of
 
-
-ion-storm-law-crew-only-species = ALL {$species} ARE {$part} OF THE CREW
+ion-storm-law-crew-only-species = ALL { $species } ARE { $part } OF THE CREW

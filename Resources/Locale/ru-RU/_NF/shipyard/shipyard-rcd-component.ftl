@@ -1,4 +1,5 @@
-﻿## UI
+## UI
+
 rcd-component-missing-id-deed = No ship registered to this ID
 rcd-component-can-only-build-authorized-ship = Can only build on authorized ships!
 rcd-component-no-id-swiped = Swipe id card on RCD to authorize.

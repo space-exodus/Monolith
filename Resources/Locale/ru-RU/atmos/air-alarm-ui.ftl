@@ -38,7 +38,6 @@ air-alarm-ui-mode-wide-filtering = Фильтрация (широкая)
 air-alarm-ui-mode-fill = Заполнение
 air-alarm-ui-mode-panic = Паника
 air-alarm-ui-mode-none = Нет
-
 air-alarm-ui-pump-direction-siphoning = Siphoning
 air-alarm-ui-pump-direction-scrubbing = Scrubbing
 air-alarm-ui-pump-direction-releasing = Releasing

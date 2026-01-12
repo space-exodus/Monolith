@@ -1,5 +1,7 @@
 ent-ClothingOuterHardsuitEVA = скафандр EVA
     .desc = Лёгкий космический скафандр, способный защитить владельца от космического вакуума во время аварийной ситуации.
+ent-ClothingOuterHardsuitSyndicate = syndicate EVA suit
+    .desc = Has a tag on the back that reads: 'Totally not property of an enemy corporation, honest!'
 ent-ClothingOuterEVASuitSyndicate = кроваво-красный скафандр EVA
     .desc = Лёгкий космический скафандр, способный защитить владельца от космического вакуума во время аварийной ситуации. Выполнен в подозрительном красном цвете.
 ent-ClothingOuterSuitEmergency = аварийный скафандр EVA

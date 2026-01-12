@@ -8,5 +8,4 @@ node-scanner-artifact-connected = Сканирование артефакта
 node-scanner-artifact-non-connected = Артефакт не найден или вне радиуса
 node-scanner-artifact-state-cooldown = Артефакт отдыхает
 node-scanner-artifact-scanned-time-none = Просканируйте артефакт, чтобы увидеть текущий скан
-
-node-scan-popup = The node ID is {$id}
+node-scan-popup = The node ID is { $id }

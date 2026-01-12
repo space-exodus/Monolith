@@ -2,10 +2,8 @@
 
 station-event-ai-shuttle-detected = Unidentified dilapidated combat vessel detected near local space. Caution is advised.
 station-event-ai-capital-detected = Capital Class dilapidated combat vessel detected near local space. Heavy caution is advised.
-
 # chimera ship spawns
 station-event-chimera-shuttle-detected = Unidentified vessel detected near local space. Caution is advised.
-
 # asakim ship spawns
 station-event-asakim-shuttle-detected = Unidentified Pre-Fracture vessel detected near local space. Caution is advised.
 
@@ -13,7 +11,6 @@ station-event-asakim-shuttle-detected = Unidentified Pre-Fracture vessel detecte
 
 ghost-role-information-redacted-borg = Automated Defense Manipulator
 ghost-role-information-redacted-borg-description = The dilapidated silicon intelligence of a long unused automated defense vessel.
-
 ghost-role-information-redacted-core = Automated Defense Core
 ghost-role-information-redacted-core-description = The dilapidated ship computer of a long unused automated defense vessel.
 

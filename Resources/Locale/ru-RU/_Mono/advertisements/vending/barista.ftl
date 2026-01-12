@@ -10,4 +10,6 @@ thankyou-barista-1 = Enjoy your brew!
 thankyou-barista-2 = May your day be steeped in flavor!
 thankyou-barista-3 = Savor the moment, one cup at a time.
 thankyou-barista-4 = Thank you for choosing Barista!
+
 # died of cringe
+

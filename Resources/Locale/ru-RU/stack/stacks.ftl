@@ -395,15 +395,9 @@ stack-xenoborg = ксеноборг-плитка
 stack-dark-astro-grass-floor = тёмная астро-трава
 stack-light-astro-grass-floor = светлая астро-трава
 stack-desert-astro-sand-floor = пустынный астро-песок
-
 stack-xeno-steel-corner = xeno steel corner tile
-
 stack-dark-squiggly = dark steel squiggly tile
-
 stack-xeno-steel = xeno steel tile
-
 stack-xeno-floor = xeno floor
-
 stack-techmaint-floor-dark = dark techmaint floor
-
 stack-xeno-maint = xeno techmaint

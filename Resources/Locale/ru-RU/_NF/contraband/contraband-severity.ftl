@@ -9,6 +9,6 @@ contraband-examine-text-Class3PirateHighValue = [color=crimson] This Phaethon Dy
 contraband-examine-text-Class3Syndicate = [color=crimson]This Syndicate item is considered class 3 contraband, and its possession is illegal.[/color]
 contraband-examine-text-Class3Wizard = [color=crimson]This Wizard item is considered class 3 contraband, and its possession is illegal.[/color]
 contraband-examine-text-PirateTarget = [color=yellow]This item may be a highly valuable target for Imperials![/color]
-contraband-examine-text-Class3MobHuman =  [color=magenta]This individual is deemed too dangerous to be contained, and is considered as class 3 contraband when in captivity. Keeping them in confinement, alive or dead, is illegal.[/color]
+contraband-examine-text-Class3MobHuman = [color=magenta]This individual is deemed too dangerous to be contained, and is considered as class 3 contraband when in captivity. Keeping them in confinement, alive or dead, is illegal.[/color]
 contraband-examine-text-Class3MobCreature = [color=magenta]This creature is deemed too dangerous to be contained, and is considered as class 3 contraband when in captivity. Keeping it in confinement, alive or dead, is illegal.[/color]
 contraband-examine-text-Class3MobConstruct = [color=magenta]This intelligence is deemed too dangerous to be contained, and is considered as class 3 contraband when in captivity. Keeping it in confinement, alive or dead, is illegal.[/color]

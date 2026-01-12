@@ -1,5 +1,7 @@
 ent-ClothingHeadHatBeaverHat = бобровая шапка
     .desc = Джентльмены?
+ent-ClothingHeadHatCapVizier = vizier cap
+    .desc = The cap worn by the Vizier to denote his official status in the Phaethon dynasty above the rest of the Imperials.
 ent-ClothingHeadHatBeret = берет
     .desc = Берет, любимый головной убор творцов.
 ent-ClothingHeadHatBeretFrench = французский берет
@@ -24,6 +26,8 @@ ent-ClothingHeadHatBeretSeniorPhysician = берет ведущего врача
     .desc = Специалисты, одетые в цвета врачей и химиков, являются гордостью этого отдела!
 ent-ClothingHeadHatBeretBrigmedic = берет бригмедика
     .desc = Белый берет, похож на кремовый пирог на голове.
+ent-ClothingHeadHatBeretMercenary = mercenary beret
+    .desc = Olive beret, the badge depicts a jackal on a rock.
 ent-ClothingHeadHatBeretMerc = берет наёмника
     .desc = Оливковый берет, на значке изображён шакал на скале.
 ent-ClothingHeadHatBeretCommand = берет командования

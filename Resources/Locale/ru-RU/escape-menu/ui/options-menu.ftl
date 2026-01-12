@@ -44,6 +44,7 @@ ui-options-misc-label = Разное
 ui-options-interface-label = Интерфейс
 
 ## Graphics menu
+
 ui-options-auto-fill-highlights = Автозаполнение подсветки информацией персонажа
 ui-options-highlights-color = Цвет подсветки:
 ui-options-highlights-color-example = Это подсвеченный текст!
@@ -374,25 +375,16 @@ ui-options-enable-overlay-starting-job = Показывать начальную
 ui-options-overlay-merge-distance = Расстояние для слияния стеков
 ui-options-overlay-ghost-fade-distance = Диапазон исчезновения оверлея призрака от мышки
 ui-options-overlay-ghost-hide-distance = Диапазон скрытия оверлея призрака от мышки
-
 ui-options-function-target-torso = Target torso
-
 ui-options-function-target-head = Target head
-
 ui-options-combat-music = Combat Music
 
 ## Graphics menu
 
 ui-options-function-toggle-focus = Toggle focus
-
 ui-options-function-target-right-arm = Target right arm
-
 ui-options-header-targeting = Targeting
-
 ui-options-function-target-right-leg = Target right leg
-
 ui-options-function-target-left-leg = Target left leg
-
 ui-options-radio-noise = Play radio static sounds
-
 ui-options-function-target-left-arm = Target left arm

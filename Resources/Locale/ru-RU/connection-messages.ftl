@@ -61,5 +61,4 @@ baby-jail-account-reason-overall =
        *[other] минут
     }.
 hwid-required = Ваш клиент отказался отправлять идентификатор оборудования (HWID). Пожалуйста, свяжитесь с администрацией для получения дальнейшей помощи.
-
 ban-banned-4 = Attempts to circumvent this ban such as creating a new account will result on escalation up to a community ban.

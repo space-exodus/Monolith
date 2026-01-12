@@ -93,4 +93,3 @@ ent-ClothingOuterCoatExpensive = дорогая шуба
 ent-ClothingOuterCoatExpensiveOpened = { ent-ClothingOuterCoatExpensive }
     .desc = { ent-ClothingOuterStorageFoldableBaseOpened.desc }
     .suffix = Распахнута
-

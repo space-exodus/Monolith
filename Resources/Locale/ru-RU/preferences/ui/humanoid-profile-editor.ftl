@@ -65,22 +65,17 @@ humanoid-profile-editor-mindset-chaoticallyangry-text = Хаотично-зло�
 trait-category-disabilities = Ограничения
 trait-category-speech = Черты речи
 trait-category-quirks = Причуды
-
 humanoid-profile-editor-clear-all-traits-button = Clear All Traits
-
 trait-category-physical = Physical
-
 humanoid-profile-editor-width-label = Width:
+
 # Mono End
 
 humanoid-profile-editor-traits-default-category = Uncategorized
-
 humanoid-profile-editor-clear-all-traits-confirm = Confirm Clear
-
 humanoid-profile-editor-height-label = Height:
-
 humanoid-profile-editor-company-tab = Company
-
 humanoid-profile-editor-company-label = Company:
 
 # Traits
+

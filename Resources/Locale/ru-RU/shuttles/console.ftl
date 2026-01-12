@@ -50,25 +50,18 @@ shuttle-console-dock = Пристыковать
 shuttle-console-docks-label = Стыковочные порты
 shuttle-console-undock-fail = Не удалось отстыковаться
 shuttle-console-dock-fail = Не удалось пристыковаться
-
 shuttle-console-strafing = Strafing Mode
-
 shuttle-console-in-expedition = FTL is unavailable during expeditions
-
 shuttle-console-no-powered-ftl-drive = No FTL drive detected
-
 shuttle-console-ftl-lock-enabled = Enabled
-
 shuttle-console-ftl-drive-unpowered = FTL drive detected but not powered
 
 # NAV
 
 shuttle-console-ftl-lock = FTL Lock
-
 shuttle-console-iffshuttles-toggle = Show Shuttles
 
 # MAP
 
 shuttle-console-ftl-lock-disabled = Disabled
-
 shuttle-console-undock-all = Undock All

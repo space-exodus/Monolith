@@ -9,9 +9,6 @@ agent-id-card-current-name = Имя:
 agent-id-card-current-job = Должность:
 agent-id-card-job-icon-label = Иконка:
 agent-id-menu-title = ID карта Агента
-
 agent-id-open-ui-verb = Изменить настройки
-
-agent-id-new-1 = Gained one new access from {THE($card)}.
-
-agent-id-no-new = Didn't gain any new accesses from {THE($card)}.
+agent-id-new-1 = Gained one new access from { THE($card) }.
+agent-id-no-new = Didn't gain any new accesses from { THE($card) }.

@@ -1,6 +1,5 @@
 job-name-overall = Overall
 job-name-futureagent = Future Agent
-
 # Navy Stuff
 # All of those changed from Goob
 job-name-navyofficer = Winter Solstice Officer

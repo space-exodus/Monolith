@@ -6,7 +6,6 @@ ent-OrganKidanHeart = сердце кидана
     .desc = { ent-BaseAnimalOrgan.desc }
 ent-OrganKidanKidneys = почки кидана
     .desc = { ent-BaseAnimalOrgan.desc }
-
 ent-OrganNewKidanVertebralVessel = спинной сосуд
     .desc = Насильно прокачивает жизнь
     .suffix = Кидан
