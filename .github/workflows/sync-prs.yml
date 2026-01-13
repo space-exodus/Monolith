@@ -163,7 +163,7 @@ jobs:
               continue
             fi
 
-            if git branch -a --contains "$MERGE_SHA" >/dev/null 2>&1; then
+            if git branch -r --contains "$MERGE_SHA" 2>/dev/null | grep -q "origin/"; then
               echo "Merge commit $MERGE_SHA already exists in repo but not in main"
               updated_synced_prs=$(echo "$updated_synced_prs" | jq --arg num "$PR_NUMBER" --arg sha "$MERGE_SHA" '.[$num]={sha: $sha, processed_at: "'$(date -Iseconds)'", status: "already_exists"}')
               echo "$updated_synced_prs" > .synced-prs.json
