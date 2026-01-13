@@ -13,7 +13,7 @@ class File:
     def read_data(self):
         file = open(self.full_path, 'r', encoding='utf8')
         # replace необходим для того, чтобы 1-е сообщение не считалось ast.Junk
-        file_data = file.read().replace('﻿', '')
+        file_data = file.read().replace('﻿', '').replace('\t', ' ')
         file.close()
 
         return file_data
