@@ -180,16 +180,16 @@ jobs:
 
             if git cherry-pick "$MERGE_SHA" --no-commit 2>/dev/null; then
               if [ -n "$(git status --porcelain)" ]; then
-                git commit -m "Sync upstream PR #$PR_NUMBER: $PR_TITLE" --allow-empty
+                git commit -m "Sync upstream PR $PR_NUMBER: $PR_TITLE" --allow-empty
                 git push origin "$BRANCH_NAME"
-                
+
                 gh pr create \
                   --repo "$REPO" \
-                  --title "[Sync] Upstream PR #$PR_NUMBER: $PR_TITLE" \
-                  --body "**Upstream PR:** #$PR_NUMBER - $PR_TITLE\n**Merged at:** $MERGED_AT\n\nThis PR was automatically created to sync changes from the upstream repository." \
+                  --title "[Sync] Upstream PR $PR_NUMBER: $PR_TITLE" \
+                  --body $'**Upstream PR:** $PR_NUMBER - $PR_TITLE\n\nThis PR was automatically created to sync changes from the upstream repository.' \
                   --base main \
                   --head "$BRANCH_NAME"
-                
+
                 status="synced"
               else
                 echo "No changes after cherry-pick, skipping PR creation"
@@ -202,14 +202,14 @@ jobs:
               echo "Conflicts detected in PR #$PR_NUMBER"
 
               git add -A || true
-              git commit -m "Sync upstream PR #$PR_NUMBER with conflicts" --allow-empty
+              git commit -m "Sync upstream PR $PR_NUMBER with conflicts" --allow-empty
               git push origin "$BRANCH_NAME"
 
               gh pr create \
                 --repo "$REPO" \
-                --title "[CONFLICT] Upstream PR #$PR_NUMBER: $PR_TITLE" \
+                --title "[CONFLICT] Upstream PR $PR_NUMBER: $PR_TITLE" \
                 --body "⚠️ **CONFLICTS DETECTED** ⚠️\n\n"\
-                "**Upstream PR:** #$PR_NUMBER - $PR_TITLE\n**Merged at:** $MERGED_AT\nThis PR has merge conflicts that need manual resolution.\n\n" \
+                "**Upstream PR:** $PR_NUMBER - $PR_TITLE\nThis PR has merge conflicts that need manual resolution.\n\n" \
                 "This PR was automatically created to sync changes from the upstream repository.\n" \
                 "Please resolve conflicts before merging." \
                 --base main \
