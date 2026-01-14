@@ -1,9 +1,12 @@
-gunnery-window-title = Gunnery Control
-gunnery-window-disconnected = DISCONNECTED
-gunnery-window-connected = CONNECTED
-gunnery-select-all = Select All
-gunnery-unselect-all = Unselect All
-gunnery-guns = Guns
+gunnery-window-title = Консоль котроля корабельных орудий
+gunnery-window-disconnected = ОТКЛЮЧЕНО
+gunnery-window-connected = ПОДКЛЮЧЕНО
+gunnery-select-all = Выбрать все
+gunnery-unselect-all = Отменить выбор
+gunnery-guns = Орудия
 gunnery-gun-select = { $name }
 gunnery-gun-select-ammo = { $name }: { $ammo }
-gunnery-server-examine-detail = The server is using [color={ $valueColor }]{ $usedProcessingPower }/{ $processingPower }[/color] of its processing power.
+gunnery-server-examine-detail = Этот сервер использует [color={ $valueColor }]{ $usedProcessingPower }/{ $processingPower }[/color] из своей максимальной вычислительной мощи.
+gunnery-select-ballistic = Баллистические
+gunnery-select-energy = Энергетические
+gunnery-select-missiles = Ракетные
