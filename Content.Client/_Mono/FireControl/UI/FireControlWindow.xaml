@@ -52,22 +52,22 @@
                     <PanelContainer.PanelOverride>
                         <gfx:StyleBoxFlat BorderThickness="4" BorderColor="#2e2e2e" BackgroundColor="#1c1c1c" />
                     </PanelContainer.PanelOverride>
-            <Button Name="SelectBallisticButton" Access="Public" Text="Ballistics"
-                    StyleClasses="ButtonSquare" HorizontalExpand="True" Margin="4 4"/>
+            <Button Name="SelectBallisticButton" Access="Public" Text="{Loc 'gunnery-select-ballistic'}"
+                    StyleClasses="ButtonSquare" HorizontalExpand="True" Margin="4 4"/> <!-- Ru-Localization -->
                 </PanelContainer>
             <PanelContainer VerticalExpand="False" HorizontalExpand="True">
                 <PanelContainer.PanelOverride>
                     <gfx:StyleBoxFlat BorderThickness="4" BorderColor="#2e2e2e" BackgroundColor="#1c1c1c" />
                 </PanelContainer.PanelOverride>
-            <Button Name="SelectEnergyButton" Access="Public" Text="Energy"
-                    StyleClasses="ButtonSquare" HorizontalExpand="True" Margin="4 4"/>
+            <Button Name="SelectEnergyButton" Access="Public" Text="{Loc 'gunnery-select-energy'}"
+                    StyleClasses="ButtonSquare" HorizontalExpand="True" Margin="4 4"/> <!-- Ru-Localization -->
             </PanelContainer>
             <PanelContainer VerticalExpand="False" HorizontalExpand="True">
                 <PanelContainer.PanelOverride>
                     <gfx:StyleBoxFlat BorderThickness="4" BorderColor="#2e2e2e" BackgroundColor="#1c1c1c" />
                 </PanelContainer.PanelOverride>
-            <Button Name="SelectMissileButton" Access="Public" Text="Missiles"
-                    StyleClasses="ButtonSquare" HorizontalExpand="True" Margin="4 4"/>
+            <Button Name="SelectMissileButton" Access="Public" Text="{Loc 'gunnery-select-missiles'}"
+                    StyleClasses="ButtonSquare" HorizontalExpand="True" Margin="4 4"/> <!-- Ru-Localization -->
             </PanelContainer>
             </BoxContainer>
             </PanelContainer>
