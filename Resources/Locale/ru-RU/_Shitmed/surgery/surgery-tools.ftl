@@ -1,9 +1,9 @@
-surgery-tool-turn-on = Turn it on first!
-surgery-tool-reload = Reload it first!
-surgery-tool-match-light = Light it first!
-surgery-tool-match-replace = Get a new match!
-surgery-tool-examinable-verb-text = Surgery Tool
-surgery-tool-examinable-verb-message = Examine the uses of this tool in surgeries.
-surgery-tool-header = This can be used in surgeries as:
-surgery-tool-unlimited = - { $tool } at [color={ $color }]{ $speed }x[/color] speed
-surgery-tool-used = - { $tool } at [color={ $color }]{ $speed }x[/color] speed, [color=red]then gets used up[/color]
+surgery-tool-turn-on = Для работы сначала включите инструмент!
+surgery-tool-reload = Для работы сначала перезарядите инструмент!
+surgery-tool-match-light = Для работы сначала зажгите инструмент!
+surgery-tool-match-replace = Возьмите новую спичку!
+surgery-tool-examinable-verb-text = Хирургический инструмент
+surgery-tool-examinable-verb-message = Изучите возможность хирургического применения данного иснтрумента.
+surgery-tool-header = Этот инструмент можно использовать как:
+surgery-tool-unlimited = - { $tool } с [color={ $color }]{ $speed }x[/color] скоростью.
+surgery-tool-used = - { $tool } с [color={ $color }]{ $speed }x[/color] скоростью, [color=red]после чего расходуется[/color].

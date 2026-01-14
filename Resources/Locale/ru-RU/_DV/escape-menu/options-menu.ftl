@@ -1,3 +1,3 @@
-ui-options-tab-extra = Extra
-ui-options-general-forknotice = Note: These settings are fork-specific and might not apply on other servers.
-ui-options-no-filters = Disable species vision filters
+ui-options-tab-extra = Экстра
+ui-options-general-forknotice = Примечание: Эти настройки относятся к этому форку и могут не работать на других серверах.
+ui-options-no-filters = Отключить уникальное зрение рас
