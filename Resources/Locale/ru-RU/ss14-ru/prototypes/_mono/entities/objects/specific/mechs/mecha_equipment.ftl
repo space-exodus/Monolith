@@ -1,0 +1,10 @@
+ent-LightMechMountEquipment = { "" }
+    .desc = { "" }
+ent-MediumMechMountEquipment = { "" }
+    .desc = { "" }
+ent-HeavyMechMountEquipment = { "" }
+    .desc = { "" }
+ent-EWARMechMountEquipment = { "" }
+    .desc = { "" }
+ent-IFFMechMountEquipment = { "" }
+    .desc = { "" }

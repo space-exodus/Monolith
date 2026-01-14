@@ -14,6 +14,8 @@ seeds-bees-name = bees
 seeds-bees-display-name = honeycomb
 # Should be in seed-component
 botany-seed-jar-name = jar of { $seedName } { $seedNoun }
+# Missing upstream definitions
+seeds-lemoon-display-name = лилунное дерево
 
 # Missing upstream definitions
 

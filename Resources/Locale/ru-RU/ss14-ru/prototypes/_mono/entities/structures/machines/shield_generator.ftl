@@ -1,0 +1,16 @@
+ent-ShieldGeneratorBase = Shield Generator
+    .desc = { ent-BaseMachinePowered.desc }
+ent-ShieldGeneratorPOI = FS-421 "Fortress" Outpost Shield Generator
+    .suffix = POI ONLY
+    .desc = { ent-ShieldGeneratorBase.desc }
+ent-ShieldGeneratorTSFCapital = LM-212 "Vanguard" Capital Shield Generator
+    .suffix = TSF CAPITAL ONLY
+    .desc = { ent-ShieldGeneratorBase.desc }
+ent-ShieldGenerator = MS-500 "Titan" Shield Generator
+    .suffix = ADS ONLY
+    .desc = { ent-ShieldGeneratorBase.desc }
+ent-ShieldGeneratorMedium = MS-250 "Aegis" Shield Generator
+    .suffix = ADS/TSF ONLY, SCI VOUCHER SHIPS ONLY
+    .desc = { ent-ShieldGeneratorBase.desc }
+ent-ShieldGeneratorSmall = MS-100 "Sentinel" Shield Generator
+    .desc = { ent-ShieldGeneratorBase.desc }

@@ -1,0 +1,10 @@
+ent-ClothingModsuitHelmetUSSPVaryag = Shlem Varyaga
+    .desc = Sealed, reinforced, and intimidating.
+ent-ClothingModsuitHelmetUSSPZastavnik = Shlem Zastavnik
+    .desc = A reinforced helmet with deep armor plating and visor shielding. Favored by serzhants for frontline presence.
+ent-ClothingModsuitHelmetRogue = RX-01 modsuit helmet
+    .desc = Does not currently feature an AI companion- note to self, sell helmet AI as separate purchase.
+ent-ClothingModsuitHelmetVolta = Volta Modsuit Helmet
+    .desc = A reinforced sapper's plate, reimburced with higher quality CCTV and military-grade flashlight, doesn't make you look any better though.
+ent-ClothingModsuitHelmetMercenary = mercenary modsuit helmet
+    .desc = The visor is sky blue, so your enemies don't realize you haven't put them on their backs yet.

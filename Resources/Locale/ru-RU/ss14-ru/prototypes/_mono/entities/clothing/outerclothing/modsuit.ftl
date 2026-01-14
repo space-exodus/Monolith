@@ -1,0 +1,10 @@
+ent-ClothingModsuitChestplateUSSPVaryag = Panzerkorps Varyag
+    .desc = Thick plating fused with internal atmosphere control.
+ent-ClothingModsuitChestplateUSSPZastavnik = Brust Zastavnika
+    .desc = An imposing armored shell designed to absorb punishment and maintain stability under pressure.
+ent-ClothingModsuitChestplateRogue = RX-01 modsuit chestplate
+    .desc = The chestpiece has some warning label on the inside about radiation leaks- and a note next to it 'Remove this label in the final product - Felix
+ent-ClothingModsuitChestplateVolta = Volta Modsuit Chestplate
+    .desc = Reinforced military modification of Sapper Modsuit, featuring better bullet resistance.
+ent-ClothingModsuitChestplateMercenary = mercenary modsuit chestplate
+    .desc = Lightweight modsuit that sacrifices explosion and heat protection for energy shield and speed.

@@ -1,0 +1,10 @@
+ent-ClothingModsuitBootsUSSPVaryag = Marshevyye Varyag
+    .desc = Heavy-duty boots designed for combat and EVA.
+ent-ClothingModsuitBootsUSSPZastavnik = Sapogi Zastavnika
+    .desc = Thick, reinforced boots with magnetic stabilizers and shock absorption.
+ent-ClothingModsuitBootsRogue = RX-01 modsuit boots
+    .desc = Magnetized voidboots to help you avoid slips, trips, and Feds.
+ent-ClothingModsuitBootsVolta = Volta Modsuit Boots
+    .desc = Made to get militaristically oily.
+ent-ClothingModsuitBootsMercenary = mercenary modsuit boots
+    .desc = These boots were made for curb stomping.

@@ -1,0 +1,16 @@
+ent-ClothingHandsGlovesMopp = MOPP gloves
+    .desc = High-quality rubber gloves, insulated for better CBRN protection.
+ent-ClothingHandsGlovesTacticalCombatTan = tan tactical combat gloves
+    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatBlack = black tactical combat gloves
+    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatRangerGreen = ranger green tactical combat gloves
+    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatOlive = olive tactical combat gloves
+    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatCoyoteBrown = coyote brown tactical combat gloves
+    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsGlovesTacticalCombatWhite = white tactical combat gloves
+    .desc = These tactical gloves are fireproof and shock resistant.
+ent-ClothingHandsConcussiveGauntlets = concussive gauntlets
+    .desc = A pair of gauntlets designed for mining usage, delivering shocks to shatter anything in their path. Expensive and powerful

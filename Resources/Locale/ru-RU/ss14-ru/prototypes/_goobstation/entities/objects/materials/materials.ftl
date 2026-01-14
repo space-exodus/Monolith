@@ -1,0 +1,12 @@
+ent-MaterialHexNut = steel hex nut
+    .suffix = Full
+    .desc = { ent-PartBase.desc }
+ent-MaterialHexNutSingle = { ent-MaterialHexNut }
+    .suffix = Single
+    .desc = { ent-MaterialHexNut.desc }
+ent-MaterialScrew = steel screw
+    .suffix = Full
+    .desc = { ent-PartBase.desc }
+ent-MaterialScrewSingle = { ent-MaterialScrew }
+    .suffix = Single
+    .desc = { ent-MaterialScrew.desc }

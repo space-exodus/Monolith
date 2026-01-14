@@ -30,4 +30,3 @@ ent-SheetPlasteel10 = пласталь
 ent-SheetPlasteel1 = пласталь
     .suffix = Один
     .desc = { ent-SheetPlasteel.desc }
-
