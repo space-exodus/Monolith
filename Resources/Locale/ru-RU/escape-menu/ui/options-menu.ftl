@@ -190,6 +190,7 @@ ui-options-function-open-entity-spawn-window = Открыть меню спав�
 ui-options-function-open-sandbox-window = Открыть меню песочницы
 ui-options-function-open-tile-spawn-window = Открыть меню спавна тайлов
 ui-options-function-open-decal-spawn-window = Открыть меню спавна декалей
+game-hud-open-language-menu-button-tooltip = Открыть меню языков
 ui-options-function-open-admin-menu = Открыть админ меню
 ui-options-function-open-guidebook = Открыть руководство
 ui-options-function-window-close-all = Закрыть все окна
@@ -375,16 +376,7 @@ ui-options-enable-overlay-starting-job = Показывать начальную
 ui-options-overlay-merge-distance = Расстояние для слияния стеков
 ui-options-overlay-ghost-fade-distance = Диапазон исчезновения оверлея призрака от мышки
 ui-options-overlay-ghost-hide-distance = Диапазон скрытия оверлея призрака от мышки
-ui-options-function-target-torso = Target torso
-ui-options-function-target-head = Target head
-ui-options-combat-music = Combat Music
+ui-options-combat-music = Музыка в бою
 
 ## Graphics menu
 
-ui-options-function-toggle-focus = Toggle focus
-ui-options-function-target-right-arm = Target right arm
-ui-options-header-targeting = Targeting
-ui-options-function-target-right-leg = Target right leg
-ui-options-function-target-left-leg = Target left leg
-ui-options-radio-noise = Play radio static sounds
-ui-options-function-target-left-arm = Target left arm
