@@ -5,9 +5,9 @@ namespace Content.Shared._Shitmed.Medical.Surgery.Tools;
 [RegisterComponent, NetworkedComponent]
 public sealed partial class CauteryComponent : Component, ISurgeryToolComponent
 {
-    public string ToolName => "a cautery";
+    public string ToolName => Loc.GetString("surgery-tool-cautery"); // Ru-Localization
     public bool? Used { get; set; } = null;
-    
+
     /// <summary>
     ///     Multiply the step's doafter by this value.
     /// </summary>

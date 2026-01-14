@@ -7,3 +7,13 @@ surgery-tool-examinable-verb-message = Изучите возможность х�
 surgery-tool-header = Этот инструмент можно использовать как:
 surgery-tool-unlimited = - { $tool } с [color={ $color }]{ $speed }x[/color] скоростью.
 surgery-tool-used = - { $tool } с [color={ $color }]{ $speed }x[/color] скоростью, [color=red]после чего расходуется[/color].
+surgery-tool-bonegel = костяной гель
+surgery-tool-bonesaw = хирургическая пила
+surgery-tool-bonesetter = костный ретрактор
+surgery-tool-cautery = катетер
+surgery-tool-drill = дрель
+surgery-tool-hemostat = гемостат
+surgery-tool-retractor = ретрактор
+surgery-tool-scalpel = скальпель
+surgery-tool-woundtender = лечение ран
+surgery-tool-tweezers = пинцет
