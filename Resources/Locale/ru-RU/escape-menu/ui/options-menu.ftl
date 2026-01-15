@@ -190,7 +190,6 @@ ui-options-function-open-entity-spawn-window = Открыть меню спав�
 ui-options-function-open-sandbox-window = Открыть меню песочницы
 ui-options-function-open-tile-spawn-window = Открыть меню спавна тайлов
 ui-options-function-open-decal-spawn-window = Открыть меню спавна декалей
-game-hud-open-language-menu-button-tooltip = Открыть меню языков
 ui-options-function-open-admin-menu = Открыть админ меню
 ui-options-function-open-guidebook = Открыть руководство
 ui-options-function-window-close-all = Закрыть все окна

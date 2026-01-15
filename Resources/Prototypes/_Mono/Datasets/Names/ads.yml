@@ -1,95 +1,101 @@
 - type: dataset
   id: MonoRemnantBorgTitle
   values:
-  - ADM
+  - АДМ # Ru-Locale
 
 - type: dataset
   id: MonoRemnantCoreTitle
   values:
-  - ADC
+  - АДЦ # Ru-Locale
 
 - type: dataset
   id: MonoRemnantAdjective
   values:
-  - Violet
-  - Red
-  - Purple
-  - Yellow
-  - Green
-  - Blue
-  - Cyan
-  - Crimson
-  - Steel
-  - Obsidian
-  - Prismatic
-  - Sudden
-  - Militant
-  - Void
-  - Lightspeed
-  - Cleansing
-  - Burning
-  - Frozen
-  - Molten
-  - Flying
-  - Marching
-  - Spectral
-  - Piercing
-  - Glass
+  # Ru-Locale-Start
+  - Фиолетовый
+  - Красный
+  - Пурпурный
+  - Жёлтый
+  - Зелёный
+  - Синий
+  - Голубой
+  - Багровый
+  - Стальной
+  - Обсидиановый
+  - Призматический
+  - Внезапный
+  - Воинственный
+  - Пустотный
+  - Светоскоростной
+  - Очищающий
+  - Пылающий
+  - Ледяной
+  - Расплавленный
+  - Летучий
+  - Марширующий
+  - Призрачный
+  - Пронзающий
+  - Стеклянный
+  # Ru-Locale-End
 
 - type: dataset
   id: MonoRemnantNoun
   values:
-  - Sword
-  - Strider
-  - Courser
-  - Patron
-  - Flood
-  - Weapon
-  - Static
-  - Signal
-  - Arrow
-  - Arbiter
-  - Protocol
-  - Titan
-  - Vector
-  - Requiem
-  - Watcher
-  - Eye
-  - Tower
-  - Terminal
-  - Sentinel
-  - Echo
-  - Nemesis
-  - Daemon # this one fits into modifiers too but sounds better here i think
-  - Locust
-  - Wraith
-  - Lens
-  - Prophet
+  # Ru-Locale-Start
+  - Меч
+  - Страйдер
+  - Курьер
+  - Покровитель
+  - Потоп
+  - Оружие
+  - Статика
+  - Сигнал
+  - Стрела
+  - Арбитр
+  - Протокол
+  - Титан
+  - Вектор
+  - Реквием
+  - Наблюдатель
+  - Око
+  - Башня
+  - Терминал
+  - Часовой
+  - Эхо
+  - Немезида
+  - Демон
+  - Саранча
+  - Призрак
+  - Линза
+  - Пророк
+  # Ru-Locale-End
 
 - type: dataset
   id: MonoRemnantModifier
   values:
-  - Adjunct
-  - Joint
-  - Mechanism
-  - Wire
-  - Cog
-  - Machine
-  - Relay
-  - Modem
-  - Node
-  - Unit
-  - Segment
-  - Index
-  - Branch
-  - Module
-  - Factor
-  - Scion
-  - Offset
-  - Fragment
-  - Routine
-  - Sector
-  - Link
-  - Process
-  - Servo
-  - Trait
+  # Ru-Locale-Start
+  - Адъюнкт
+  - Соединение
+  - Механизм
+  - Провод
+  - Шестерня
+  - Машина
+  - Реле
+  - Модем
+  - Узел
+  - Блок
+  - Сегмент
+  - Указатель
+  - Ветвь
+  - Модуль
+  - Фактор
+  - Наследник
+  - Смещение
+  - Фрагмент
+  - Рутина
+  - Сектор
+  - Связь
+  - Процесс
+  - Сервопривод
+  - Черта
+  # Ru-Locale-End

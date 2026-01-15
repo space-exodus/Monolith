@@ -1,3 +1,3 @@
 collective-mind-letoferol = Letoferol
-collective-mind-borer = Borer
+collective-mind-borer = Бореры
 collective-mind-monolithic = Monolithic

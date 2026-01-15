@@ -35,10 +35,10 @@ shipyard-console-menu-class-label = Класс:{ " " }
 shipyard-console-menu-engine-label = Тип питания:{ " " }
 shipyard-console-purchase-available = Купить
 shipyard-console-guidebook = Описание
-shipyard-console-unassign-deed = Unassign
-shipyard-console-deed-unassigned = Deed unassigned from ID card successfully.
-shipyard-console-confirm-unassign = Are you sure?
-shipyard-console-unassign-cooldown = Wait { $minutes } minute(s) before unassigning another deed.
+shipyard-console-unassign-deed = Отвязать
+shipyard-console-deed-unassigned = Привязка шаттла к данной ID карте была успешна удалена.
+shipyard-console-confirm-unassign = Вы уверены?
+shipyard-console-unassign-cooldown = Подождите { $minutes } минут перед следующей отвязкой шаттла.
 # Keep these in enum order for ease of validation.
 shipyard-console-category-All = Все
 shipyard-console-category-Micro = Мини

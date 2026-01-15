@@ -1,2 +1,2 @@
-alerts-borer-chemical-name = Chemicals
-alerts-borer-chemical-desc = Chemicals made in your body, used for your abilities.
+alerts-borer-chemical-name = Химикаты
+alerts-borer-chemical-desc = Химикаты что создает ваше тело, используемые для ваших способностей.

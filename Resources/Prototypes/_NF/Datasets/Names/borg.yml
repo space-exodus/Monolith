@@ -9,65 +9,67 @@
 - type: dataset
   id: NFNamesBorgUnlocalized
   values:
-  - Bob
-  - Joe
-  - Beep
-  - Beep II
-  - Boombox
-  - Tour Guide-otron
-  - Taffy
-  - Boop
-  - Boop II
-  - Buzz
-  - Buzz II
-  - Toaster
-  - Head of Robots
-  - EVA 1
-  - Mr. Robist
-  - Junk
+  # Ru-Locale-Start
+  - Боб
+  - Джо
+  - Бип
+  - Бип II
+  - Бумбокс
+  - Гайд-О-Трон
+  - Ириска
+  - Буп
+  - Буп II
+  - Бзз
+  - Бзз II
+  - Тостер
+  - Глава Роботов
+  - ЕВА 1
+  - Мистер Роби
+  - Хлам
   - R2-PO
   - C-3-D2
-  - Robby
-  - Robobot
-  - Fixer
-  - Sonny
-  - Autobot
-  - Whitley
-  - Keller
-  - Xenos
-  - Echo
-  - Vector
-  - B-0-RG
-  - Megabyte
-  - Butt-Bot
-  - Deceptiborg
-  - Le Borgue
-  - Beepers
-  - Cute-Bot
-  - Makeshifter
-  - Twin
-  - S.A.U.L
-  - Honker
-  - Clanker 
-  - Is-The-Robot
-  - 9 of 7
-  - Dankbot
-  - CALC
-  - Putters
-  - Roombot
-  - Brobot
-  - Pliance
-  - Cycle
-  - Hertz
-  - Intellibot
-  - Crambot
-  - Tooly
-  - Happy
-  - Fiddler
-  - Jeeves
-  - Hudson
-  - Jarvis
-  - Jenkins
-  - Ms. Tinker
-  - Gonk
-  - Roberto
+  - Робби
+  - Робобот
+  - Фиксер
+  - Сонни
+  - Автобот
+  - Уитли
+  - Келлер
+  - Ксенос
+  - Эхо
+  - Вектор
+  - Б-0-РГ
+  - Мегабайт
+  - Задне-Бот
+  - Десептиконг
+  - Ля Борг
+  - Биперс
+  - Милаш-Бот
+  - Самоделкин
+  - Близнец
+  - С.О.У.Л
+  - Гудок
+  - Лязгун
+  - Это-Робот
+  - 9 из 7
+  - Дэнкбот
+  - ВЫЧИСЛ
+  - Путери
+  - Пылебот
+  - Бробот
+  - Инструментик
+  - Цикл
+  - Герц
+  - Умне-Бот
+  - Ботан
+  - Инструментчик
+  - Счастливчик
+  - Скрипач
+  - Дживс
+  - Хадсон
+  - Джарвис
+  - Дженкинс
+  - Мисс Мастер
+  - Гонк
+  - Роберто
+  # Ru-Locale-End

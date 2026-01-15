@@ -1,8 +1,10 @@
 - type: dataset
   id: DroneTitle
   values:
-  - UNIT
-  - INSTANCE
+  # Ru-Locale-Start
+  - ЮНИТ
+  - ЕДИНИЦА
+  # Ru-Locale-End
 
 - type: dataset
   id: DroneHex
@@ -17,9 +19,11 @@
   - 7
   - 8
   - 9
-  - A
-  - B
-  - C
-  - D
-  - E
-  - F
+  # Ru-Locale-Start
+  - А
+  - Б
+  - В
+  - Г
+  - Д
+  - Е
+  # Ru-Locale-End

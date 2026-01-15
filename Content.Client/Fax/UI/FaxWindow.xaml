@@ -4,9 +4,9 @@
                xmlns:xNamespace="http://schemas.microsoft.com/winfx/2006/xaml"
                xmlns:style="clr-namespace:Content.Client.Stylesheets"
                Title="{Loc 'fax-machine-ui-window'}"
-               SetWidth="250"
+               SetWidth="500"
                SetHeight="250"
-               Resizable="False">
+               Resizable="False"> <!--Ru-Localization SetWidth from 250 to 500-->
     <BoxContainer Orientation="Vertical" VerticalExpand="True">
         <PanelContainer VerticalExpand="True" HorizontalExpand="True">
             <PanelContainer.PanelOverride>

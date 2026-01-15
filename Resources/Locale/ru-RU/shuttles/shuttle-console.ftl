@@ -1,34 +1,34 @@
 ## Shuttle Console Lock Component
 
-shuttle-console-locked-examine = The console is [color=red]locked[/color]. Swipe a valid ID card with a shuttle deed to unlock.
-shuttle-console-unlocked-examine = The console is [color=green]unlocked[/color].
-shuttle-console-locked = This console is locked! You need to unlock it with a valid ID card.
-shuttle-console-unlocked = The console has been unlocked.
-shuttle-console-locked-success = The console has been locked.
-shuttle-console-wrong-id = The ID card doesn't have any shuttle deeds.
-shuttle-console-wrong-deed = The ID card doesn't contain a valid deed for this shuttle.
-shuttle-console-cannot-lock = You don't have permission to lock this console.
-shuttle-console-no-ship-id = This console isn't assigned to any ship.
-shuttle-console-no-id-card = No ID card present in PDA.
-shuttle-console-crewed = You may not have a Shuttle Console and a Gunnery Console open at the same time on a Capital ship. Find a crewmate?
-shuttle-console-guest-access-granted = Guest access granted to this ship's doors and lockers.
-shuttle-console-guest-access-already-granted = You already have guest access to this ship.
-shuttle-console-reset-guest-access-denied = You need the ship's deed to reset guest access.
-shuttle-console-no-guest-access = No guest access to reset.
-shuttle-console-guest-access-reset = Reset guest access for { $count } ID cards.
-shuttle-console-ship-access-enabled = Ship access control enabled.
-shuttle-console-ship-access-disabled = Ship access control disabled.
-shuttle-console-access-denied = Access denied.
+shuttle-console-locked-examine = Консоль [color=red]заблокирована[/color]. Используйте ID карту с привязкой к данному шаттлу для её разблокировки.
+shuttle-console-unlocked-examine = Консоль [color=green]разблокирована[/color].
+shuttle-console-locked = Консоль заблокирована! Вам нужно разблокировать её используя ID карту с привязкой к данному шаттлу.
+shuttle-console-unlocked = Консоль разблокирована.
+shuttle-console-locked-success = Консоль заблокирована.
+shuttle-console-wrong-id = Эта ID карта не имеет привязки к какомулибо шаттлу.
+shuttle-console-wrong-deed = Эта ID карта не имеет привязки к этому шаттлу.
+shuttle-console-cannot-lock = У вас нет нужного доступа для блокировки шаттла.
+shuttle-console-no-ship-id = Эта консоль не привязана к какому либо шаттлу.
+shuttle-console-no-id-card = В вашем КПК нет ID карты.
+shuttle-console-crewed = Вы не можете использовать консоль управления шаттлом и орудиями одновременно на таком флагмане. Лучше разделить обязанности, разве нет?
+shuttle-console-guest-access-granted = Получен гостевой доступ к шлюзам и шкафам шаттла.
+shuttle-console-guest-access-already-granted = Вы уже имеете гостевой доступ к данному шаттлу.
+shuttle-console-reset-guest-access-denied = Вам нужна привязка шаттла к данной ID карте для сброса гостевых доступов.
+shuttle-console-no-guest-access = Отсутвует гостевой доступ у карт для его сброса.
+shuttle-console-guest-access-reset = Гостевой доступ сброшен для { $count } ID карт.
+shuttle-console-ship-access-enabled = Активирован контроль доступа на шаттле.
+shuttle-console-ship-access-disabled = Контроль доступа на шаттле отключен.
+shuttle-console-access-denied = В доступе отказано.
 
 ## Shuttle Console Lock Verbs
 
-shuttle-console-verb-unlock = Unlock Console
-shuttle-console-verb-lock = Lock Console
-shuttle-console-verb-reset-guest-access = Reset Guest Access
-shuttle-console-verb-guest-access = Guest Access
-shuttle-console-verb-lock-ship = Lock Ship
-shuttle-console-verb-unlock-ship = Unlock Ship
+shuttle-console-verb-unlock = Разблокировать консоль
+shuttle-console-verb-lock = Заблокировать консоль
+shuttle-console-verb-reset-guest-access = Сбросить гостевой доступ
+shuttle-console-verb-guest-access = Гостевой доступ
+shuttle-console-verb-lock-ship = Заблокировать шаттл
+shuttle-console-verb-unlock-ship = Разблокировать шаттл
 
 ## Shuttle Console FTL
 
-shuttle-ftl-proximity = Unable to FTL while around other ships.
+shuttle-ftl-proximity = Невозможно совершить БСС прыжок пока рядом есть другие шаттлы.

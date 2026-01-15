@@ -1,33 +1,33 @@
 ## Infest Messages
 
-cortical-borer-has-host = You already have a host.
-cortical-borer-host-already-infested = { THE($target) } is already infested.
-cortical-borer-invalid-host = { THE($target) } is not a valid host.
-cortical-borer-face-covered = { THE($target) }'s face is covered.
-cortical-borer-headless = { THE($target) } does not have a head!
-cortical-borer-start-infest = You begin to crawl into { THE($target) }.
+cortical-borer-has-host = У вас уже есть носитель.
+cortical-borer-host-already-infested = { $target } уже заражен.
+cortical-borer-invalid-host = { $target } не подходящий организм.
+cortical-borer-face-covered = Лицо { $target } закрыто.
+cortical-borer-headless = { $target } нет головы!
+cortical-borer-start-infest = Вы начали залезать в { $target }.
 
 ## Generic messages
 
-cortical-borer-no-host = You do not have a host.
-cortical-borer-dead-host = Your host is dead.
-cortical-borer-not-enough-chem = You do not have enough chemicals.
-cortical-borer-not-enough-chem-storage = You cannot hold enough chemicals.
-cortical-borer-sugar-block = You taste something sweet.
+cortical-borer-no-host = У вас нет носителя.
+cortical-borer-dead-host = Ваш носитель мертв.
+cortical-borer-not-enough-chem = У вас нет нужного количества химикатов.
+cortical-borer-not-enough-chem-storage = Вы не можете содержать в себе столько химикатов.
+cortical-borer-sugar-block = Вы чуствуете что-то сладкое.
 
 ## Control messages
 
-cortical-borer-already-control = You are already controlling your host.
-cortical-borer-vomit = { $name } vomits out a { $egg }!
+cortical-borer-already-control = Вы уже контролируете своего носителя.
+cortical-borer-vomit = { $name } отложил { $egg }!
 
 ## UI
 
-cortical-borer-dispenser-window-cost = { $cost } chemicals
-cortical-borer-ghostrole-name = Cortical Borer
-cortical-borer-ghostrole-desc = A space worm with the sole purpose in life to enter peoples heads and lay its eggs.
-cortical-borer-ghostrole-rules = Lay your eggs and spread your hive, but killing is not top priority. If you kill for no reason, expect retaliation from above. In addition to this, you may [head=3][color=#04bf5e]INFECT[/color][/head] in [color=#e8d905]Colonial Outpost[/color] or [color=#2093b0]Medical Dispatch[/color] but killing in these locations is [head=3][color=#e00d26]FORBIDDEN[/color][/head] (RDM will result in a [color=#e00d26]1 day server ban[/color], often wordlessly, so if you kill someone, there better be a good reason.)
+cortical-borer-dispenser-window-cost = { $cost } химикатов
+cortical-borer-ghostrole-name = Борер
+cortical-borer-ghostrole-desc = Космический червяк, целью которого является нахождение носителя и откладывание с его помощью яиц себе подобных.
+cortical-borer-ghostrole-rules = Откладывайте яйца и расширяйте улей, но убийство — не главный приоритет. Если убиваете без причины — ждите действий свыше. Кроме того, вы можете [head=3][color=#04bf5e]ЗАРАЖАТЬ[/color][/head] на [color=#e8d905]Аванпосте[/color] или [color=#2093b0]Госпитале[/color] но убийства в этих локациях [head=3][color=#e00d26]ЗАПРЕЩЕНО[/color].
 
 ## Examine Text
 
-infested-control-examined = You have [color=#d842fc]{ $timeremaining }[/color] seconds left controlling this body.
-cortical-borer-self-examine = You have [color=#d842fc]{ $chempoints }[/color] chemicals.
+infested-control-examined = У вас осталось [color=#d842fc]{ $timeremaining }[/color] секунд возможности контроля тела.
+cortical-borer-self-examine = Вы имеете [color=#d842fc]{ $chempoints }[/color] единиц химикатов.

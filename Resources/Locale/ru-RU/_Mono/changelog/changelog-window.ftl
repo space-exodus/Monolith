@@ -1,1 +1,1 @@
-changelog-tab-title-Monolith = Monolith
+changelog-tab-title-Monolith = Монолит
