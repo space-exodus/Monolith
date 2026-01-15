@@ -10,6 +10,7 @@ env:
 jobs:
   prtitlecase:
     runs-on: ubuntu-latest
+    if: ${{ secrets.BOT_TOKEN != '' }}
     steps:
       - name: Checkout Master
         uses: actions/checkout@v3
