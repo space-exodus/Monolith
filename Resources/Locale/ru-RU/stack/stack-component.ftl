@@ -24,7 +24,7 @@ ui-custom-stack-split-apply = Разделить
 
 # End cherry-pick from ss14#32938
 
-comp-stack-split-size = Максимально: { $size }
+comp-stack-split-size = Максимум: { $size }
 ui-custom-stack-split-title = Разделить на...
 ui-custom-stack-split-line-edit-placeholder = Количество
 comp-stack-split-custom = Разделить на...

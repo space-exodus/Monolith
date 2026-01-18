@@ -1,4 +1,4 @@
-advertisement-barista-1 = Свеже сваренное, прямо для вас!
+advertisement-barista-1 = Свежесваренное, прямо для вас!
 advertisement-barista-2 = Лучшие чаи и другие напитки в галактике!
 advertisement-barista-3 = Начни свою смену с чашечки кофе.
 advertisement-barista-4 = Зарядись натуральным чаем.
