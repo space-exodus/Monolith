@@ -18,6 +18,8 @@
     - honked
     # RU-Localization-Start
     - хонк
+    - хонкнул
+    - хонкает
     # RU-Localization-End
 
 - type: emote
@@ -214,6 +216,11 @@
     - whines
     - whined
     - whining
+    # RU-Localization-Start
+    - скулит
+    - скулят
+    # RU-Localization-End
+
 
 - type: emote
   id: Howl

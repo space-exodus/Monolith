@@ -12,7 +12,7 @@ bank-atm-reason-label = Для:{ " " }
 bank-atm-description-label = Описание:{ " " }
 bank-atm-menu-withdraw-amount = Сумма вывода
 vending-machine-menu-cash-slot-label = Наличные:{ " " }
-bank-insufficient-funds = Невозможная сумма
+bank-insufficient-funds = Недостаточная сумма
 bank-atm-menu-transaction-denied = Транзакция отклонена
 bank-atm-menu-deposit-successful = Депозит принят
 bank-atm-menu-withdraw-successful = Вывод принят
@@ -26,7 +26,7 @@ station-bank-bounty = Контракт
 # Deposit reasons
 station-bank-fines = Штраф
 station-bank-donation = Пожертвование
-station-bank-assets-sold = Проданные услуги
+station-bank-assets-sold = Проданные активы
 # Misc reasons (withdrawal and deposit)
 station-bank-required = (Необходимо)
 station-bank-other = Другое
@@ -36,5 +36,5 @@ bank-atm-menu-cash-error = ОШИБКА: НЕИЗВЕСТНО
 
 ## ATM entity
 
-bank-ATM-cashSlot = Слот валюты
-station-bank-ATM-cashSlot = Слот валюты
+bank-ATM-cashSlot = Слот наличных
+station-bank-ATM-cashSlot = Слот наличных

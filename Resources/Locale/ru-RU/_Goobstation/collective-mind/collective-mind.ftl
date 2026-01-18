@@ -1,7 +1,7 @@
-collective-mind-dragon = Fishmind
+collective-mind-dragon = Рыбий разум
 collective-mind-lingmind = Разум улья
-collective-mind-tidemind = Tidemind
-collective-mind-blobmind = Blobmind
-collective-mind-mansus-link = Mansus Link
-collective-mind-abductormind = Glorpmind
-collective-mind-binary = Бинарный
+collective-mind-tidemind = Разум тайдеров
+collective-mind-blobmind = Разум Блоба
+collective-mind-mansus-link = Связь Мансуса
+collective-mind-abductormind = Разум Глорпа
+collective-mind-binary = Двоичный

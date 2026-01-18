@@ -51,10 +51,10 @@ shuttle-console-docks-label = Стыковочные порты
 shuttle-console-undock-fail = Не удалось отстыковаться
 shuttle-console-dock-fail = Не удалось пристыковаться
 shuttle-console-strafing = Strafing Mode
-shuttle-console-in-expedition = БСС прыжок не доступен при экспедиции
-shuttle-console-no-powered-ftl-drive = Не зафиксирован двигатель БСС прыжка
+shuttle-console-in-expedition = БСС прыжок не доступен во время экспедиции
+shuttle-console-no-powered-ftl-drive = Не обнаружен БСС модуль
 shuttle-console-ftl-lock-enabled = Включено
-shuttle-console-ftl-drive-unpowered = Зафиксирован двигатель БСС прыжка без питания
+shuttle-console-ftl-drive-unpowered = Зафиксирован БСС модуль без питания
 
 # NAV
 

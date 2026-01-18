@@ -1,13 +1,13 @@
 shuttle-console-designation = Кодовый номер:
 shuttle-console-designation-unknown = ???
-shuttle-console-maximum-iff-distance = Дальность опознования
+shuttle-console-maximum-iff-distance = Дальность опазнования
 shuttle-console-maximum-speed = Максимум скорости шаттла
-shuttle-console-iff-search = Поиск по системе опознования
+shuttle-console-iff-search = Поиск по системе опазнования
 shuttle-console-inertia-dampener-off = Круиз
 shuttle-console-inertia-dampener-dampen = Полёт
 shuttle-console-inertia-dampener-anchor = Парковка
 # Mono
-shuttle-console-force-anchored = Вы не можете совершить бсс прыжок на аванпосте.
+shuttle-console-force-anchored = Вы не можете совершить БСС прыжок на аванпосте.
 shuttle-console-signature-infrared = Термальная сигнатура
 shuttle-console-signature-unknown = Неизвестно
 # Network Port Buttons

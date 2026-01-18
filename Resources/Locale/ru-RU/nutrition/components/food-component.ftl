@@ -4,8 +4,8 @@
 food-you-need-to-hold-utensil = You need to be holding a { $utensil } to eat that!
 food-nom = Ням. { $flavors }
 food-swallow = Вы проглатываете { $food }. { $flavors }
-food-has-used-storage = Вы не можете есть { $food } пока в этом что-то есть.
-food-system-remove-mask = Сначала нужно снять { $entity } перед тем как есть.
+food-has-used-storage = Вы не можете есть { $food }, пока внутри что-то есть.
+food-system-remove-mask = Сначала необходимо снять { $entity }, прежде чем есть.
 
 ## System
 

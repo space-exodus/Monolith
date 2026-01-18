@@ -93,6 +93,8 @@
     - honking
     # RU-Localization-Start
     - хонк
+    - хонкнул
+    - хонкает
     # RU-Localization-End
 
 - type: emote

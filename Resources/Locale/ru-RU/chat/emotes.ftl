@@ -74,6 +74,6 @@ chat-emote-msg-pew = издаёт пиу.
 chat-emote-msg-bang = издаёт пау.
 chat-emote-msg-rev = издаёт вжик.
 chat-emote-msg-caw = каркает.
-chat-emote-msg-bark = каркает.
+chat-emote-msg-bark = гавкает.
 chat-emote-msg-snarl = рычит.
 chat-emote-msg-whine = скулит.
