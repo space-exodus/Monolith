@@ -670,5 +670,4 @@
     stealth:
       passiveVisibilityRate: -0.10
       movementVisibilityRate: 0.10
-      hadOutline: true
 #Exodus-RefactorStealthSystem-End

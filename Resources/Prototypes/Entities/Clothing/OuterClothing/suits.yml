@@ -171,7 +171,6 @@
     - type: InstantStealth
       stealth:
         maxVisibility: 0.1
-        hadOutline: true
         movementVisibilityRate: 0.15
         passiveVisibilityRate: -1
         invisibilityPenalty: 3

@@ -300,7 +300,6 @@
         passiveVisibilityRate: -0.1
         movementVisibilityRate: 0.1
         minVisibility: -1
-        hadOutline: true
 #Exodus-RefactorStealthSystem-End
 
 - type: artifactEffect
