@@ -1,21 +1,20 @@
-//This system was commented out after the stealth system was refactored.
-//You can find it on the path "Content.Client/Exodus/Stealth/StealthSystem.cs"
-
-/*
+using System.Linq;
 using Content.Client.Interactable.Components;
 using Content.Client.StatusIcon;
-using Content.Shared.Stealth;
-using Content.Shared.Stealth.Components;
+using Content.Shared.Exodus.Stealth;
+using Content.Shared.Exodus.Stealth.Components;
 using Robust.Client.GameObjects;
 using Robust.Client.Graphics;
 using Robust.Shared.Prototypes;
 
-namespace Content.Client.Stealth;
+namespace Content.Client.Exodus.Stealth;
 
 public sealed class StealthSystem : SharedStealthSystem
 {
     [Dependency] private readonly IPrototypeManager _protoMan = default!;
     [Dependency] private readonly SharedTransformSystem _transformSystem = default!;
+    [Dependency] private readonly SpriteSystem _sprite = default!;
+    [Dependency] private readonly SharedStealthSystem _stealth = default!;
 
     private ShaderInstance _shader = default!;
 
@@ -26,35 +25,31 @@ public sealed class StealthSystem : SharedStealthSystem
         _shader = _protoMan.Index<ShaderPrototype>("Stealth").InstanceUnique();
 
         SubscribeLocalEvent<StealthComponent, ComponentShutdown>(OnShutdown);
-        SubscribeLocalEvent<StealthComponent, ComponentStartup>(OnStartup);
         SubscribeLocalEvent<StealthComponent, BeforePostShaderRenderEvent>(OnShaderRender);
+
+        SubscribeLocalEvent<StealthComponent, StealthRequestChangeEvent>(OnRequestChange);
     }
 
-    public override void SetEnabled(EntityUid uid, bool value, StealthComponent? component = null)
+
+    private void OnRequestChange(EntityUid uid, StealthComponent comp, StealthRequestChangeEvent args)
     {
-        if (!Resolve(uid, ref component) || component.Enabled == value)
-            return;
+        var enabled = !_stealth.IsVisible(uid);
+        if (enabled)
+            AddShader(uid);
+        else
+            RemoveShader(uid);
 
-        base.SetEnabled(uid, value, component);
-        SetShader(uid, value, component);
     }
 
-    private void SetShader(EntityUid uid, bool enabled, StealthComponent? component = null, SpriteComponent? sprite = null)
+    private void AddShader(EntityUid uid, StealthComponent? component = null, SpriteComponent? sprite = null)
     {
         if (!Resolve(uid, ref component, ref sprite, false))
             return;
 
-        sprite.Color = Color.White;
-        sprite.PostShader = enabled ? _shader : null;
-        sprite.GetScreenTexture = enabled;
-        sprite.RaiseShaderEvent = enabled;
-
-        if (!enabled)
-        {
-            if (component.HadOutline && !TerminatingOrDeleted(uid))
-                EnsureComp<InteractionOutlineComponent>(uid);
-            return;
-        }
+        _sprite.SetColor((uid, sprite), Color.White);
+        sprite.PostShader = _shader;
+        sprite.GetScreenTexture = true;
+        sprite.RaiseShaderEvent = true;
 
         if (TryComp(uid, out InteractionOutlineComponent? outline))
         {
@@ -63,15 +58,26 @@ public sealed class StealthSystem : SharedStealthSystem
         }
     }
 
-    private void OnStartup(EntityUid uid, StealthComponent component, ComponentStartup args)
+    private void RemoveShader(EntityUid uid, StealthComponent? component = null, SpriteComponent? sprite = null)
     {
-        SetShader(uid, component.Enabled, component);
+        if (!Resolve(uid, ref component, ref sprite, false))
+            return;
+
+        _sprite.SetColor((uid, sprite), Color.White);
+        sprite.PostShader = null;
+        sprite.GetScreenTexture = false;
+        sprite.RaiseShaderEvent = false;
+
+        if (component.HadOutline && !TerminatingOrDeleted(uid))
+        {
+            EnsureComp<InteractionOutlineComponent>(uid);
+        }
     }
 
     private void OnShutdown(EntityUid uid, StealthComponent component, ComponentShutdown args)
     {
         if (!Terminating(uid))
-            SetShader(uid, false, component);
+            RemoveShader(uid);
     }
 
     private void OnShaderRender(EntityUid uid, StealthComponent component, BeforePostShaderRenderEvent args)
@@ -90,15 +96,13 @@ public sealed class StealthSystem : SharedStealthSystem
         reference.X = -reference.X;
         var visibility = GetVisibility(uid, component);
 
-        // Goobstation - Proper invisibility: changes -1 to -1.5
-        // actual visual visibility effect is limited to -1.5 to 1.
+        // actual visual visibility effect is limited to +/- 1.5.
         visibility = Math.Clamp(visibility, -1.5f, 1f);
 
         _shader.SetParameter("reference", reference);
         _shader.SetParameter("visibility", visibility);
 
         visibility = MathF.Max(0, visibility);
-        args.Sprite.Color = new Color(visibility, visibility, 1, 1);
+        _sprite.SetColor((uid, args.Sprite), new Color(visibility, visibility, 1, 1));
     }
 }
-*/
