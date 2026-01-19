@@ -18,8 +18,6 @@ signal-port-name-middle = Середина
 signal-port-description-middle = Этот порт задействуется всякий раз, когда рычаг перемещается в нейтральное положение.
 signal-port-name-trigger-sender = Триггер
 signal-port-description-trigger-sender = Этот порт задействуется всякий раз, когда срабатывает триггер.
-signal-port-name-timer = Таймер
-signal-port-description-timer = Этот порт задействуется всякий раз, когда истекает таймер.
 signal-port-name-timer-start = Таймер-старт
 signal-port-description-timer-start = Этот порт задействуется всякий раз, когда запускается таймер.
 signal-port-name-logic-output = Выход
@@ -50,7 +48,5 @@ signal-port-name-power-discharging = Разрядка
 signal-port-description-power-discharging = Этот порт задействуется с высоким уровнем сигнала когда батарея разряжается, и с низким когда нет.
 signal-port-name-item-detected = Обнаружение
 signal-port-description-item-detected = Этот порт даёт сигнал каждый раз, когда обнаруживает предмет.
-
 signal-port-description-timer-trigger = This port is invoked whenever the timer triggers.
-
 signal-port-name-timer-trigger = Timer Trigger

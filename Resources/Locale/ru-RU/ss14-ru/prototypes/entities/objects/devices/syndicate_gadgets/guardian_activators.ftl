@@ -8,6 +8,7 @@ ent-HoloClownInjector = имплантер
 # Corvax-HiddenDesc-End
 ent-MagicalLamp = магическая лампа
     .desc = Федерации магов пришлось как-то сократить расходы после скандала с товарами джиннов.
+    .suffix = Ghost
 # Corvax-HiddenDesc-Start
 ent-BoxHoloparasite = коробка
     .desc = Коробка с рисунком странного существа.
@@ -15,4 +16,6 @@ ent-BoxHoloparasite = коробка
 ent-BoxHoloclown = коробка с имплантером
     .desc = Коробка с рисунком клоуна.
     .suffix = коробка с голоклоуном
+
 # Corvax-HiddenDesc-End
+

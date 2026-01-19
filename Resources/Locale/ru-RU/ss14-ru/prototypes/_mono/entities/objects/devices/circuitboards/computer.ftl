@@ -1,0 +1,9 @@
+ent-GunneryControlComputerCircuitboard = gunnery control computer board
+    .desc = A computer printed circuit board for a gunnery control computer.
+ent-StationAiUploadCircuitboardUnlocked = { ent-StationAiUploadCircuitboard }
+    .desc = A computer printed circuit board for a AI upload console.
+    .suffix = Unlocked
+ent-EliteRadarCircuitboard = elite radar computer board
+    .desc = A computer printed circuit board for an elite radar computer.
+ent-StationRadarCircuitboard = overwatch radar computer board
+    .desc = A computer printed circuit board for a station radar computer.

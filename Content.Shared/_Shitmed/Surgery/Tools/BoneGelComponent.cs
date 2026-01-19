@@ -5,7 +5,7 @@ namespace Content.Shared._Shitmed.Medical.Surgery.Tools;
 [RegisterComponent, NetworkedComponent]
 public sealed partial class BoneGelComponent : Component, ISurgeryToolComponent
 {
-    public string ToolName => "bone gel";
+    public string ToolName => Loc.GetString("surgery-tool-bonegel"); // Ru-Localization
 
     public bool? Used { get; set; } = null;
 

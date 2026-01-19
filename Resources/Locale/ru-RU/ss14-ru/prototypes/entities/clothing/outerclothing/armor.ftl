@@ -9,7 +9,6 @@ ent-ClothingOuterArmorRiot = противоударная броня
     .desc = Костюм из полу-гибкого поликарбонатного бронежилета с тяжёлыми накладками для защиты от атак ближнего боя. Идеально подходит для борьбы с правонарушителями на станции.
 ent-ClothingOuterArmorBulletproof = пуленепробиваемый жилет
     .desc = Тяжёлый бронежилет типа III, способный защитить владельца от традиционного метательного оружия и взрывчатки в незначительной степени.
-
 ent-ClothingOuterArmorBaseCarapace = { ent-ClothingOuterBaseLarge }
     .desc = { ent-ClothingOuterBaseLarge.desc }
 ent-ClothingOuterArmorReflective = отражающий бронежилет

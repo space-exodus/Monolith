@@ -1,2 +1,2 @@
-alerts-modsuit-power-name = [color=yellow]Modsuit Power[/color]
-alerts-modsuit-power-desc = Displays the current power level of your modsuit. Low power may affect suit functionality.
+alerts-modsuit-power-name = [color=yellow]Заряд модсьюта[/color]
+alerts-modsuit-power-desc = Показывает текущий заряд модсьюта. Низкий заряд может повлиять на функциональность костюма.

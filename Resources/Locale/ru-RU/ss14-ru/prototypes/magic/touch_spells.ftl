@@ -1,3 +1,4 @@
+
 ent-ActionSmiteNoReq = { ent-ActionSmite }
     .desc = { ent-ActionSmite.desc }
 ent-ActionCluwne = Проклятия Клувня

@@ -6,7 +6,7 @@ ui-change-reagent-whitelist-title = Reagent Filter
 
 ## Text for the apply button when there is a selected reagent
 
-ui-change-reagent-whitelist-apply = Only Draw {$reagent}
+ui-change-reagent-whitelist-apply = Only Draw { $reagent }
 
 ## Text for the apply button when there is no selected reagent
 

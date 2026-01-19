@@ -1,82 +1,94 @@
 - type: dataset
   id: MonoPDVBorgNameset
   values:
-  - Vanguard Unit
-  - PDV Enforcer Module
-  - PDV Sentinel
-  - Dynast Defense Unit
+  # Ru-Locale-Start
+  - Юнит Авангард
+  - Миротворец
+  - Сентинел
+  - Защитник Династии
+  # Ru-Locale-End
 
 - type: dataset
   id: MonoTSFBorgNameset
   values:
-  - Federation Silicon
-  - TSFMC Compliance Unit
-  - TSFMC Sgt. Reckless
-  - TSFMC Judge & Jury
+  # Ru-Locale-Start
+  - Федеративный Синтет
+  - Образец подражания
+  - Сержант Безрассудство
+  - Судья
+  # Ru-Locale-End
 
 - type: dataset
   id: VesselCoreNameset
   values:
-  - Steven
-  - Robyn
-  - Alex
-  - Bob
-  - Alexander
-  - Steve
-  - Kira
-  - Var:Tim
+  # Ru-Locale-Start
+  - Стивен
+  - Робин
+  - Алекс
+  - Боб
+  - Александр
+  - Стив
+  - Кира
+  - Вар:Тим
+  # Ru-Locale-End
 
 - type: dataset
   id: TSFMCCoreNameset
   values:
-  - TSFMC Watcher
-  - TSFMC Upholder
-  - TSFMC Robocop
-  - TSFMC Silicon
-  - TSFMCAI.exe
-  - TSFMC Dog
-  - TSFMC Unit
+  # Ru-Locale-Start
+  - Смотритель
+  - Блюститель
+  - Робокоп
+  - Синтет
+  - КМПТСФ.exe
+  - Сторожевой Пёс
+  - Юнит
+  # Ru-Locale-End
 
 - type: dataset
   id: PDVCoreNameset
   values:
-  - Imperial Overseer
-  - Imperial Positronic
-  - Imperial Grid
-  - Imperial Hivemind
-  - PDVAI.sh
-  - Imperial Cat
-  - Imperial Instance
+  # Ru-Locale-Start
+  - НАДСмотрщик
+  - Позитроник
+  - Обломок
+  - Улей
+  - ДФ.sh
+  - Манул
+  - Экземпляр
+  # Ru-Locale-End
 
 - type: dataset
   id: MonoRemnantShipNameset # eventually this will have a use... randommetadata component dont work with grids though...
   values:
-  - ADS-Glimmer
-  - ADS-Orion
-  - ADS-Expanse
-  - ADS-Symphony
-  - ADS-Chorus
-  - ADS-Flashpoint
-  - ADS-Phoron
-  - ADS-Conquest
-  - ADS-Prime
-  - ADS-Firestorm
-  - ADS-Retaliation
-  - ADS-Horizon
-  - ADS-Marksman
-  - ADS-Barricade
-  - ADS-Vein
-  - ADS-Zero
-  - ADS-Midnight
-  - ADS-Interdiction
-  - ADS-Mist
-  - ADS-Granite
-  - ADS-Typhoon
-  - ADS-Storm
-  - ADS-Rubicon
-  - ADS-Cauterizer
-  - ADS-Evasion
-  - ADS-Apprehension
+  # Ru-Locale-Start
+  - ADS-Мерцание
+  - ADS-Орион
+  - ADS-Простор
+  - ADS-Симфония
+  - ADS-Хор
+  - ADS-Очаг Напряжения
+  - ADS-Фонон
+  - ADS-Завоевание
+  - ADS-Прайм
+  - ADS-Огненная Буря
+  - ADS-Возмездие
+  - ADS-Горизонт
+  - ADS-Меткий Стрелок
+  - ADS-Баррикада
+  - ADS-Жила
+  - ADS-Ноль
+  - ADS-Полночь
+  - ADS-Запрет
+  - ADS-Дымка
+  - ADS-Гранит
+  - ADS-Тайфун
+  - ADS-Шторм
+  - ADS-Рубикон
+  - ADS-Прижигатель
+  - ADS-Уклонение
+  - ADS-Задержание
+  # Ru-Locale-End
 
 # base stats for faction borgs
 

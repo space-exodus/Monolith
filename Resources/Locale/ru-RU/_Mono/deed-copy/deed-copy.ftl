@@ -1,3 +1,3 @@
 # Deed Copy
-deed-copy-target-has-deed = This ID card already has a deed.
-deed-copy-success = Successfully copied deed for {$ship} to the ID card.
+deed-copy-target-has-deed = К этой карте уже привязан шаттл.
+deed-copy-success = Привязка к шаттлу { $ship } скопирована на ID-карту.

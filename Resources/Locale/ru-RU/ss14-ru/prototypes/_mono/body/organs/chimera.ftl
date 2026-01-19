@@ -1,0 +1,12 @@
+ent-BaseChimeraOrgan = chimera organ
+    .desc = { ent-BaseItem.desc }
+ent-OrganChimeraStomach = chimera stomach
+    .desc = A strange organ that serves as the center for the metabolism of a Chimera.
+ent-OrganChimeraBrain = chimera brain
+    .desc = The heart of a chimera growth.
+ent-OrganChimeraLiver = chimera spike gland
+    .desc = Takes the location of the liver in the body, and repurposes them to be used as a gland for growing bone spikes instead.
+ent-OrganChimeraHeart = chimera heart
+    .desc = { ent-BaseChimeraOrgan.desc }
+ent-OrganChimeraLungs = chimera pheropod
+    .desc = Distributes pheromones allowing for hivemind communication with other Chimeras. Serves as the lungs for the parasite as well.

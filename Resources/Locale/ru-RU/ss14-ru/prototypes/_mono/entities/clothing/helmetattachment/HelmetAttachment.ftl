@@ -1,0 +1,12 @@
+ent-ClothingHelmetAttachmentGogglesCoverOlive = olive goggles cover
+    .desc = Goggles cover to fit your goggle when not in use, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentGogglesCoverTan = tan goggles cover
+    .desc = Goggles cover to fit your goggle when not in use, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentGogglesCoverBlack = black goggles cover
+    .desc = Goggles cover to fit your goggle when not in use, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentGogglesCoverRedDigital = red digital goggles cover
+    .desc = Goggles cover to fit your goggle when not in use, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentNVGsBasic = basic night vision goggles
+    .desc = A pair of basic optoelectronics night vision goggles with high sensibility to flashes, worn in the helmet attachment slot.
+ent-ClothingHelmetAttachmentInfraredBasic = basic thermal vision goggles
+    .desc = A pair of basic thermal vision goggles with high sensibility to flashes, worn in the helmet attachment slot.

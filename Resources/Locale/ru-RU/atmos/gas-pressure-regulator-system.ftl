@@ -1,4 +1,4 @@
-﻿gas-pressure-regulator-system-examined =
+gas-pressure-regulator-system-examined =
     Вентиль [color={ $statusColor }]{ $open ->
         [true] открыт
        *[false] закрыт

@@ -12,11 +12,7 @@ internals-other-no-breath-tool =
     } дыхательный аппарат
 internals-self-no-tank = У вас нет газового баллона
 internals-other-no-tank = У { $ent } нет газового баллона
-
 internals-no-breath-tool = You are not wearing a breathing tool
-
 action-name-internals-toggle = Toggle Internals
-
 action-description-internals-toggle = Breathe from the equipped gas tank. Also requires equipped breath mask.
-
 internals-no-tank = You are not wearing a gas tank

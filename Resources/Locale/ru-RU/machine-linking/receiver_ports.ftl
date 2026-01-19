@@ -18,6 +18,8 @@ signal-port-name-doorbolt = Болты шлюза
 signal-port-description-doorbolt = Меняет статус болтирования, если поступил высокий уровень сигнала.
 signal-port-name-trigger-receiver = Триггер
 signal-port-description-trigger-receiver = Запускает определённый механизм на устройстве.
+signal-port-name-timer = Таймер
+signal-port-description-timer = Этот порт задействуется всякий раз, когда истекает таймер.
 signal-port-name-order-sender = Отправитель заказа
 signal-port-description-order-sender = Отправляет заказ на консоль заказа грузов
 signal-port-name-order-receiver = Получатель заказа
@@ -57,8 +59,5 @@ signal-port-description-logic-input = Входной порт, который п
 signal-port-description-logic-memory-input = Сигнал, записывается в ячейку памяти при, когда включен.
 signal-port-name-logic-enable = Включен
 signal-port-description-logic-enable = Загружает входной сигнал в ячейку памяти только при значении HIGH.
-
 signal-port-name-trigger = Trigger
-
 signal-port-description-trigger = Triggers some mechanism on the device.
-

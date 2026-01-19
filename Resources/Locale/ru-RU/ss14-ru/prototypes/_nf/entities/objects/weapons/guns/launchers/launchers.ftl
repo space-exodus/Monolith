@@ -1,0 +1,10 @@
+ent-WeaponLauncherChinaLakeEmp = { ent-WeaponLauncherChinaLake }
+    .suffix = EMP
+    .desc = { ent-WeaponLauncherChinaLake.desc }
+ent-WeaponLauncherRocketEmp = { ent-WeaponLauncherRocket }
+    .suffix = EMP
+    .desc = { ent-WeaponLauncherRocket.desc }
+ent-WeaponMailLake = mail RPDS
+    .desc = Rap(b?)id Parcel Delivery System
+ent-WeaponLauncherNfsdLake = TSFMC grenade launcher
+    .desc = Able to lob both grenades and darts!

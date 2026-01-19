@@ -1,2 +1,2 @@
-shield-emitter-examine-undamaged = The generator is running at full efficiency.
-shield-emitter-examine-damaged = The generator is drawing [color=purple]{$percent}%[/color] more power from damage.
+shield-emitter-examine-undamaged = Генератор щита работает на полную мощность.
+shield-emitter-examine-damaged = Генератор использует на [color=purple]{ $percent }%[/color] больше энергии из-за повреждений.

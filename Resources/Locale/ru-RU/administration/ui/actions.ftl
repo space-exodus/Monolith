@@ -11,5 +11,4 @@ admin-player-actions-player-panel = Открыть панель игрока
 admin-player-actions-clone = Клонировать
 admin-player-actions-follow = Следовать
 admin-player-actions-confirm = Вы уверены?
-
 admin-player-actions-clone-with-items = Clone (Items)

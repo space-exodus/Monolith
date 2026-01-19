@@ -54,6 +54,5 @@ chat-language-Pig-name = Pig
 chat-language-Sheep-name = Sheep
 chat-language-Xeno-name = Xeno
 chat-language-DroneTalk-name = Drone
-
 # Added here by Mono
 chat-language-Blob-name = Blob

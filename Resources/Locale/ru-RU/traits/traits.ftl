@@ -6,7 +6,7 @@ trait-poor-vision-desc = Ваши глаза уже не те, что раньш
 trait-narcolepsy-desc = Вас одолевают приступы сонливости
 trait-pacifist-name = Пацифист
 trait-pacifist-desc = Вы не можете нападать и причинять вред живым существам.
-permanent-blindness-trait-examined =  [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } глаза остекленелые и расфокусированные. Не похоже, что { SUBJECT($target) } может хорошо вас видеть, если может вообще.[/color]
+permanent-blindness-trait-examined = [color=lightblue]{ CAPITALIZE(POSS-ADJ($target)) } глаза остекленелые и расфокусированные. Не похоже, что { SUBJECT($target) } может хорошо вас видеть, если может вообще.[/color]
 trait-lightweight-name = Быстрое опьянение
 trait-lightweight-desc = Алкоголь оказывает на вас более сильное воздействие
 trait-muted-name = Немота
@@ -45,11 +45,7 @@ trait-monochromacy-name = Монохромазия
 trait-monochromacy-desc = Вы полный дальтоник, всё, что вы видите, сводится к оттенкам от чёрного до белого.
 trait-impaired-mobility-name = Ограниченная подвижность
 trait-impaired-mobility-desc = Вам сложно передвигаться без помощи от существ или устройств.
-
 trait-russian-name = Russian accent
-
 trait-wheelchair-bound-desc = You cannot move without your wheelchair. Wheelchair included.
-
 trait-russian-desc = You reek of vodka smell.
-
 trait-wheelchair-bound-name = Wheelchair-bound

@@ -21,7 +21,6 @@ seeds-garlic-display-name = чесночный стебель
 seeds-lemon-name = лимон
 seeds-lemon-display-name = лимонное дерево
 seeds-lemoon-name = лилун
-seeds-lemoon-display-name = лилунное дерево
 seeds-lime-name = лайм
 seeds-lime-display-name = лаймовое дерево
 seeds-orange-name = апельсин

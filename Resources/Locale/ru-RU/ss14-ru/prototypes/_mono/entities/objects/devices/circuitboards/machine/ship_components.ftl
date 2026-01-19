@@ -1,0 +1,16 @@
+ent-MachineDriveCTLA25Circuitboard = CTLA-25 bluespace drive board
+    .desc = A machine board for a bluespace drive.
+ent-MachineGCSLowCircuitboard = low-power gunnery control server board
+    .desc = A machine board for a GCS.
+ent-MachineGCSMediumCircuitboard = medium-power gunnery control server board
+    .desc = A machine board for a GCS.
+ent-MachineGCSHighCircuitboard = high-power gunnery control server board
+    .desc = A machine board for a GCS.
+ent-MachineGCSUltraCircuitboard = ultra-high-power gunnery control server board
+    .desc = A machine board for a GCS.
+ent-MachineGCSStationCircuitboard = station gunnery control server board
+    .desc = A machine board for a GCS.
+ent-MachineDriveCTLA25sCircuitboard = CTLA-25s bluespace drive board
+    .desc = A machine board for an advanced bluespace drive.
+ent-MachineDriveCTLA50Circuitboard = CTLA-50 bluespace drive board
+    .desc = A machine board for an advanced bluespace drive.

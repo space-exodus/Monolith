@@ -15,7 +15,6 @@ wire-name-color-navy = Синий
 wire-name-color-purple = Фиолетовый
 wire-name-color-pink = Розовый
 wire-name-color-fuchsia = Пурпурный
-
 # letter names
 wire-letter-name-alpha = Альфа
 wire-letter-name-beta = Бета

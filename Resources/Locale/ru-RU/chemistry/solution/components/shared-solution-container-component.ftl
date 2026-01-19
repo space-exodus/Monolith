@@ -32,15 +32,9 @@ examinable-solution-on-examine-volume-puddle =
         [mostlyempty] [color=#A4A4A4]почти пустая[/color]
        *[empty] [color=gray]пустая[/color]
     }
-
-examinable-solution-recognized-first = [color={$color}]{$chemical}[/color]
-
-examinable-solution-recognized-next = , [color={$color}]{$chemical}[/color]
-
-examinable-solution-recognized-last = and [color={$color}]{$chemical}[/color]
-
+examinable-solution-recognized-first = [color={ $color }]{ $chemical }[/color]
+examinable-solution-recognized-next = , [color={ $color }]{ $chemical }[/color]
+examinable-solution-recognized-last = and [color={ $color }]{ $chemical }[/color]
 shared-solution-container-component-on-examine-worded-amount-one-reagent = chemical.
-
 shared-solution-container-component-on-examine-worded-amount-multiple-reagents = mixture of chemicals.
-
 shared-solution-container-component-on-examine-empty-container = Contains no chemicals.

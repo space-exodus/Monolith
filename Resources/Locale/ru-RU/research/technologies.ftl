@@ -72,8 +72,6 @@ research-technology-clowning-utilities = Клоунские штучки
 research-technology-advanced-spray = Продвинутые спреи
 research-technology-quantum-fiber-weaving = Плетение квантового волокна
 research-technology-bluespace-cargo-transport = Блюспейс-транспортировка грузов
-research-technology-dual-wielding-technology = Технология двойного опрерирования    
-
+research-technology-dual-wielding-technology = Технология двойного опрерирования
 research-technology-ai = AI Research
-
 research-technology-portable-fission = Portable Fission

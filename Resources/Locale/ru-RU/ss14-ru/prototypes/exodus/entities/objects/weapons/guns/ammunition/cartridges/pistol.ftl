@@ -17,4 +17,3 @@ ent-CartridgePistolAlt = патрон (.25 авто)
     .desc = { ent-BaseCartridge.desc }
 ent-CartridgePistolPracticeAlt = патрон (.25 авто учебный)
     .desc = { ent-BaseCartridge.desc }
-

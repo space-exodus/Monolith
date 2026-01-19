@@ -2,12 +2,12 @@ flavor-complex-resomi = like chicken, but more exotic
 
 # MOTD: Teas
 
-flavor-complex-tea-black = rich, malty, and robust
-flavor-complex-tea-green = grassy, fresh, and slightly sweet
-flavor-complex-tea-chamomile = floral, soothing, and honey-like
-flavor-complex-tea-berry = sweet, tart, and bursting with berry notes
-flavor-complex-tea-fruit = vibrant, juicy, and medley of fruits
-flavor-complex-tea-yorkshire = hearty, bold, and full-bodied
-flavor-complex-tea-decaf-black = classic, but without the kick, still flavorful
-flavor-complex-tea-syndie = watery, synthetic and like coffee
-flavor-complex-coffee-decaf = coffee, but missing something... a little flat and disappointing
+flavor-complex-tea-black = ароматно, пряно и с солодовыми нотками
+flavor-complex-tea-green = травянисто и свежо, со сладковатым оттенком
+flavor-complex-tea-chamomile = цветочно-успокаивающе, с медовым привкусом
+flavor-complex-tea-berry = сладко и терпко, как взрывной ягодный букет
+flavor-complex-tea-fruit = ярко, сочно, как фруктовое ассорти
+flavor-complex-tea-yorkshire = насыщенно и крепко, с терпким послевкусием
+flavor-complex-tea-decaf-black = классика, но без бодрости, хоть и ароматно
+flavor-complex-tea-syndie = водянисто, синтетически, как кофе
+flavor-complex-coffee-decaf = как кофе, но без изюминки... пресновато и разочаровывающе

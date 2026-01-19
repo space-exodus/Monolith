@@ -1,4 +1,3 @@
-﻿ui-options-tab-extra = Extra
-ui-options-general-forknotice = Note: These settings are fork-specific and might not apply on other servers.
-
-ui-options-no-filters = Disable species vision filters
+ui-options-tab-extra = Дополнительно
+ui-options-general-forknotice = Примечание: эти настройки относятся к текущему серверу и могут не работать на других проектах.
+ui-options-no-filters = Отключить шейдеры зрения рас

@@ -285,7 +285,6 @@ flavor-complex-irish-car-bomb = как шипучая пенка колы
 flavor-complex-white-gilgamesh = как слегка газированные сливки
 flavor-complex-antifreeze = тепло
 flavor-complex-caipirinha = как Бразилия
-flavor-complex-daiquiri = как ром, лайм и сахар
 flavor-complex-deathintheafternoon = как анис и шампанское
 flavor-complex-empress75 = как пурпур
 flavor-complex-espressomartini = как водка и кофе
@@ -354,6 +353,7 @@ flavor-complex-punishment = как наказание
 flavor-complex-artifact-glue = как размолотый артефакт
 flavor-weh = как вех
 flavor-hew = как хев
-
 flavor-complex-pear = like pears
+
 # Frontier: cottons<cotton
+

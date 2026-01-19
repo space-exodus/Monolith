@@ -1,1 +1,1 @@
-armor-examine-stamina = - [color=cyan]Stamina[/color] damage reduced by [color=lightblue]{$num}%[/color].
+armor-examine-stamina = - Урон по [color=cyan]выносливости[/color] снижен на [color=lightblue]{ $num }%[/color].

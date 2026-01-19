@@ -19,10 +19,8 @@ job-name-stc = Station Traffic Controller
 job-name-sr = Overseer
 job-name-pal = Public Affairs Liaison
 job-name-doc = Director of Care
-
 # Job titles
 job-title-ert-mail-carrier = ERT Mail Carrier
-
 # Role timers - Make these alphabetical or I cut you
 JobERTMailCarrier = ERT Mail Carrier
 JobMercenary = Mercenary
@@ -34,13 +32,11 @@ JobPirateFirstMate = PDV Asvaran
 JobPirateBoatswain = PDV Denasvar
 JobSecurityGuard = Security Guard
 JobSTC = Station Traffic Controller
-
 # Upstream Removed
 job-name-senior-engineer = Senior Engineer
 job-name-senior-researcher = Senior Researcher
 job-name-senior-physician = Senior Physician
 job-name-senior-officer = TSFMC Fireteam Leader
-
 JobSeniorEngineer = Senior Engineer
 JobSeniorOfficer = TSFMC Fireteam Leader
 JobSeniorPhysician = Senior Physician

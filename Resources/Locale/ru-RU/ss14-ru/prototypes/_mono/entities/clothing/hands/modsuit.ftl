@@ -1,0 +1,10 @@
+ent-ClothingModsuitGauntletsUSSPVaryag = Ruki Varyaga
+    .desc = Pressure-sealing and shock-resistant gauntlets.
+ent-ClothingModsuitGauntletsUSSPZastavnik = Kuvshiny Zastavnika
+    .desc = Oversized gauntlets with reinforced knuckles and integrated crush dampeners.
+ent-ClothingModsuitGauntletsRogue = RX-01 modsuit gauntlets
+    .desc = Non-conductive mesh, pressure-sealed seams. Surprisingly legal. Proudly produced in Sector by Ullman Industries.
+ent-ClothingModsuitGauntletsVolta = Volta Modsuit Gauntlets
+    .desc = Oil stained modular suit gloves for easily pushing buttons on an RCD.
+ent-ClothingModsuitGauntletsMercenary = mercenary modsuit gauntlets
+    .desc = The knuckle guards glow when you seal the suit...for no apparent reason.

@@ -1,4 +1,4 @@
-﻿# Mapping prototypes
+# Mapping prototypes
 # General
 nf-holopad-general-laboratory = Anomalous Laboratory
 nf-holopad-general-bahama = Bahama Mama's

@@ -2,7 +2,7 @@
     { $setting ->
         [combined] Общий
         [total] Всего
-        [delta] Урон удара 
+        [delta] Урон удара
         [hit] Удар
        *[other] Неизвестно
     }

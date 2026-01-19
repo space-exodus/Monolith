@@ -1,26 +1,23 @@
 ## UI
-cryopod-examine-empty = Empty
-cryopod-examine-occupied = Occupied
-accept-cryo-window-accept-button = Accept
-accept-cryo-window-deny-button = Cancel
-accept-cryo-window-prompt-text-part = Enter cryo sleep and finish your shift?
-accept-cryo-window-title = Cryo Sleep Chamber
 
-cryo-wakeup-window-title = Waking up
-cryo-wakeup-window-accept-button = Accept
-cryo-wakeup-window-deny-button = Cancel
-cryo-wakeup-window-rules = You are going to try to return from your cryosleep! You do not know anything that happened since the moment you went to sleep. Accept this and continue?
-cryo-wakeup-result-occupied = The cryopod is occupied! Try waiting a bit.
-cryo-wakeup-result-no-cryopod = No cryopods were available to return your body to.
-cryo-wakeup-result-no-body = You do not have a cryosleeping body!
-cryo-wakeup-result-disabled = Returning from cryosleep is disabled on this server.
-
+cryopod-examine-empty = Пусто
+cryopod-examine-occupied = Занято
+accept-cryo-window-accept-button = Принять
+accept-cryo-window-deny-button = Отменить
+accept-cryo-window-prompt-text-part = Перейти в криогенный сон?
+accept-cryo-window-title = Капсула криогенного сна
+cryo-wakeup-window-title = Проснуться
+cryo-wakeup-window-accept-button = Принять
+cryo-wakeup-window-deny-button = Отменить
+cryo-wakeup-window-rules = Вы пытаетесь вернуться из криосна! Всё, что случилось после вашего ухода, вам неизвестно. Принять и продолжить?
+cryo-wakeup-result-occupied = Капсула занята! Подождите немного.
+cryo-wakeup-result-no-cryopod = Нет доступных капсул для вашего пробуждения.
+cryo-wakeup-result-no-body = Вашего тела нет в капсуле!
+cryo-wakeup-result-disabled = На этом сервере отключена возможность проснуться.
 # Cryopod
-cryopod-refuse-dead = The {$cryopod} refuses to accept dead patients.
-cryopod-refuse-organic = The {$cryopod} detected multiple sentients! Remove {$name}.
-
-cryopod-wake-up = {$entity} returns from cryosleep!
-
+cryopod-refuse-dead = { $cryopod } не принимает мёртвые тела.
+cryopod-refuse-organic = { $cryopod } не принимает более одного разумного существа! Извлеките { $name }.
+cryopod-wake-up = { $entity } возвращается из криосна!
 # Mono
-cryopod-radio-location = {$character} has entered cryosleep at {$location}.
-cryopod-radio-coordinates = {$character} has entered cryosleep at coordinates ({$x}, {$y}).
+cryopod-radio-location = { $character } вошёл в капсулу криогенного сна, локация - { $location }.
+cryopod-radio-coordinates = { $character } вошёл в капсулу криогенного сна на координатах ({ $x }, { $y }).

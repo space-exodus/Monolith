@@ -1,0 +1,9 @@
+ent-ThrusterUSSP = { ent-ThrusterSecurity }
+    .suffix = USSP
+    .desc = { ent-ThrusterSecurity.desc }
+ent-DebugThrusterUSSP = { ent-DebugThrusterSecurity }
+    .suffix = DEBUG, USSP
+    .desc = { ent-DebugThrusterSecurity.desc }
+ent-ThrusterLargeUSSP = { ent-ThrusterLarge }
+    .suffix = USSP
+    .desc = { ent-ThrusterLarge.desc }

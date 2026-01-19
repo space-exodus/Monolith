@@ -50,9 +50,7 @@ device-net-id-wireless = Беспроводные
 device-net-id-apc = ЛКП
 device-net-id-atmos-devices = Атмос-устройства
 device-net-id-reserved = Резерв
-
 device-frequency-prototype-name-surveillance-camera-Rogue = PDV Cameras
-
 device-frequency-prototype-name-surveillance-camera-USSP = USSP Cameras
 
 # prefixes for randomly generated device addresses

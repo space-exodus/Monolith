@@ -67,3 +67,13 @@ chat-emote-msg-cathisses = шипит.
 chat-emote-msg-monkeyscreeches = кричит.
 chat-emote-msg-yawn = зевает.
 chat-emote-msg-snore = храпит.
+
+# Delta-V
+chat-emote-msg-ring = звонит.
+chat-emote-msg-pew = издаёт пиу.
+chat-emote-msg-bang = издаёт пау.
+chat-emote-msg-rev = издаёт вжик.
+chat-emote-msg-caw = каркает.
+chat-emote-msg-bark = гавкает.
+chat-emote-msg-snarl = рычит.
+chat-emote-msg-whine = скулит.

@@ -8,5 +8,5 @@ mail-metrics-unopened = Unopened
 mail-metrics-count-header = Packages
 mail-metrics-money-header = Credits
 mail-metrics-total = Total
-mail-metrics-progress = {$opened} out of {$total} packages opened!
-mail-metrics-progress-percent = Success rate: {$successRate}%
+mail-metrics-progress = { $opened } out of { $total } packages opened!
+mail-metrics-progress-percent = Success rate: { $successRate }%

@@ -1,0 +1,14 @@
+ent-ClothingEyesBallisticGogglesRed = red ballistic goggles
+    .desc = A pair of ballistic goggles with red lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGlassesRed = red ballistic glasses
+    .desc = A pair of ballistic glasses with red lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGogglesGreen = green ballistic goggles
+    .desc = A pair of ballistic goggles with green lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGlassesGreen = green ballistic glasses
+    .desc = A pair of ballistic glasses with green lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGogglesOrange = orange ballistic goggles
+    .desc = A pair of ballistic goggles with orange lenses and integrated health scanning microchips.
+ent-ClothingEyesBallisticGlassesOrange = orange ballistic glasses
+    .desc = A pair of ballistic glasses with orange lenses and integrated health scanning microchips.
+ent-ClothingEyesTSFOfficerGlasses = TSF commander shades
+    .desc = A high tech heads up display purpose built for Federation officers. Usually issued to the commanding officer of a company.

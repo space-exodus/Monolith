@@ -1,32 +1,36 @@
 ## Controls menu
 
 ui-options-function-toggle-standing = Лежать/Встать на пол
-
-ui-options-function-target-left-hand = Target left hand
-ui-options-function-target-right-hand = Target right hand
-ui-options-function-target-left-foot = Target left foot
-ui-options-function-target-right-foot = Target right foot
-
-ui-options-function-smart-equip-pocket1 = Smart-equip to 1st pocket
-ui-options-function-smart-equip-pocket2 = Smart-equip to 2nd pocket
-ui-options-function-smart-equip-suit-storage = Smart-equip to shoulder
-ui-options-function-smart-equip-id = Smart-equip to PDA slot
-ui-options-function-smart-equip-shoes = Smart-equip to boots
-ui-options-function-smart-equip-outer-clothing = Smart-equip to armor storage
-
-ui-options-function-equip-backpack = Quick-equip to backpack
-ui-options-function-equip-belt = Quick-equip to belt
-ui-options-function-equip-suit-storage = Quick-equip to shoulder
-ui-options-function-equip-pocket1 = Quick-equip to 1st pocket
-ui-options-function-equip-pocket2 = Quick-equip to 2nd pocket
-ui-options-function-equip-id = Quick-equip to PDA slot
-ui-options-function-equip-wallet = Quick-equip to wallet
-
-ui-options-function-open-pocket1 = Open 1st pocket
-ui-options-function-open-pocket2 = Open 2nd pocket
-ui-options-function-open-suit-storage = Open shoulder storage
-ui-options-function-open-outer-clothing = Open armor storage
-
-ui-options-general-area-echo = Area echo
-ui-options-area-echo-enabled = Apply echo to audio in large open spaces
-ui-options-area-echo-highres = Use improved but slower calculations for echoes, if enabled
+ui-options-header-targeting = Выбор цели
+ui-options-function-target-left-hand = Выбрать целью левую кисть
+ui-options-function-target-right-hand = Выбрать целью правую кисть
+ui-options-function-target-left-foot = Выбрать целью левую ступню
+ui-options-function-target-right-foot = Выбрать целью правую ступню
+ui-options-function-toggle-focus = Переключить фокусирование
+ui-options-function-target-right-arm = Выбрать целью правую руку
+ui-options-function-target-left-arm = Выбрать целью левую руку
+ui-options-function-target-torso = Выбрать целью тело
+ui-options-function-target-head = Выбрать целью голову
+ui-options-function-target-right-leg = Выбрать целью правую ногу
+ui-options-function-target-left-leg = Выбрать целью левую ногу
+ui-options-radio-noise = Включить статические звуки радио
+ui-options-function-smart-equip-pocket1 = Умная экипировка в первый карман
+ui-options-function-smart-equip-pocket2 = Умная экипировка в второй карман
+ui-options-function-smart-equip-suit-storage = Умная экипировка на плечо
+ui-options-function-smart-equip-id = Умная экипировка в слот КПК
+ui-options-function-smart-equip-shoes = Умная экипировка в ботинки
+ui-options-function-smart-equip-outer-clothing = Умная экипировка в верхнюю одежду
+ui-options-function-equip-backpack = Быстрая экипировка в рюкзак
+ui-options-function-equip-belt = Быстрая экипировка на пояс
+ui-options-function-equip-suit-storage = Быстрая экипировка на плечо
+ui-options-function-equip-pocket1 = Быстрая экипировка в первый карман
+ui-options-function-equip-pocket2 = Быстрая экипировка в второй карман
+ui-options-function-equip-id = Быстрая экипировка в слот КПК
+ui-options-function-equip-wallet = Быстрая экипировка в кошелёк
+ui-options-function-open-pocket1 = Открыть первый карман
+ui-options-function-open-pocket2 = Открыть первый карман
+ui-options-function-open-suit-storage = Открыть хранилище на плече
+ui-options-function-open-outer-clothing = Открыть хранилище верхней одежды
+ui-options-general-area-echo = Эхо
+ui-options-area-echo-enabled = Добавить эхо в больших и открытых пространствах.
+ui-options-area-echo-highres = Использование более лучшего, но медленного просчитывания работы эхо.

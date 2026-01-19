@@ -9,20 +9,15 @@ guide-entry-sector-topology = Sector Topology
 guide-entry-cargo-hauling = Cargo Hauling
 guide-entry-shipyard = Shipyard
 guide-entry-frontier-rules = Server Rules
-
 # Engineering entries
 guide-entry-gas-mining = Gas Mining
-
 # Security entries
 guide-entry-nfsd-smuggling = Smuggling
-
 # Medical entries
 guide-entry-medical-bounties = Medical Bounties
 guide-entry-medical-doc = Director of Care
-
 # Reference entries
 guide-entry-medicalrecipes = Medical Recipes
-
 # Expedition faction entries
 guide-entry-expedition-aberrant-flesh = Aberrant Flesh
 guide-entry-expedition-argocytes = Argocytes
@@ -35,7 +30,6 @@ guide-entry-expedition-gangers = Punks
 guide-entry-expedition-silicons = Rogue Silicons
 guide-entry-expedition-syndicate-naval-forces = Syndicate Naval Forces
 guide-entry-expedition-xenos = Xenos
-
 # Shipyard entries
 guide-entry-shipyard-akupara = Akupara
 guide-entry-shipyard-ambition = Ambition
@@ -82,7 +76,6 @@ guide-entry-shipyard-spirit = Spirit
 guide-entry-shipyard-stasis = Stasis
 guide-entry-shipyard-tide = Tide
 guide-entry-shipyard-vagabond = Vagabond
-
 # Rules entries
 guide-entry-frontier-rule-zero-tolerance = Zero Tolerance
 guide-entry-frontier-rule-1 = 1. Community

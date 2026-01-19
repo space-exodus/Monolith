@@ -5,9 +5,27 @@ ent-Telecrystal = красный кристалл
 ent-Telecrystal1 = { ent-Telecrystal }
     .suffix = 1 ТК, телекристалл
     .desc = { ent-Telecrystal.desc }
+ent-Telecrystal25 = { ent-Telecrystal }
+    .suffix = 25 TC
+    .desc = { ent-Telecrystal.desc }
+ent-Telecrystal50 = { ent-Telecrystal }
+    .suffix = 50 TC
+    .desc = { ent-Telecrystal.desc }
 ent-Telecrystal5 = { ent-Telecrystal }
     .suffix = 5 ТК, телекристалл
     .desc = { ent-Telecrystal.desc }
+ent-BaseUplinkRadio100TC = { ent-BaseUplinkRadio }
+    .suffix = 100 TC
+    .desc = { ent-BaseUplinkRadio.desc }
+ent-BaseUplinkRadio125TC = { ent-BaseUplinkRadio }
+    .suffix = 125 TC
+    .desc = { ent-BaseUplinkRadio.desc }
+ent-BaseUplinkRadio200TC = { ent-BaseUplinkRadio }
+    .suffix = 200 TC, NukeOps
+    .desc = { ent-BaseUplinkRadio.desc }
+ent-BaseUplinkRadio300TC = { ent-BaseUplinkRadio }
+    .suffix = 300 TC, LoneOps
+    .desc = { ent-BaseUplinkRadio.desc }
 ent-Telecrystal10 = { ent-Telecrystal }
     .suffix = 10 ТК, телекристалл
     .desc = { ent-Telecrystal.desc }
@@ -29,4 +47,6 @@ ent-BaseUplinkRadio60TC = { ent-BaseUplinkRadio }
 ent-BaseUplinkRadioDebug = { ent-BaseUplinkRadio }
     .suffix = DEBUG, аплинк синдиката
     .desc = { ent-BaseUplinkRadio.desc }
+
 # Corvax-HiddenDesc-End
+

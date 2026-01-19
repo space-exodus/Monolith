@@ -37,9 +37,7 @@ lathe-menu-delete-fabricating-tooltip = Отменить производств�
 lathe-menu-delete-item-tooltip = Отменить производство этой партии.
 lathe-menu-move-up-tooltip = Перенести эту партию вперёд в очереди.
 lathe-menu-move-down-tooltip = Перенести эту партию назад в очереди.
-lathe-menu-item-single = {$index}. {$name}
-lathe-menu-item-batch = {$index}. {$name} ({$printed}/{$total})
-
+lathe-menu-item-single = { $index }. { $name }
+lathe-menu-item-batch = { $index }. { $name } ({ $printed }/{ $total })
 lathe-menu-skip = Skip If Insufficient
-
 lathe-menu-loop = Loop

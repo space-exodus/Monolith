@@ -112,7 +112,6 @@ accent-words-tomato-2 = Тощита
 accent-words-tomato-3 = Мастет?
 accent-words-tomato-4 = Готат!
 accent-words-tomato-5 = Вада...
-
 # Scurret
 accent-words-scurret-1 = Ва!
 accent-words-scurret-2 = Ва?

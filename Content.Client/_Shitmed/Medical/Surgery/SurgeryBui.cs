@@ -335,11 +335,11 @@ public sealed class SurgeryBui : BoundUserInterface
 
         if (_entities.TryGetComponent(_part, out MetaDataComponent? partMeta) &&
             _entities.TryGetComponent(_surgery?.Ent, out MetaDataComponent? surgeryMeta))
-            _window.Title = $"Surgery - {partMeta.EntityName}, {surgeryMeta.EntityName}";
+            _window.Title = $"{Loc.GetString("surgery-ui-window-title")} - {partMeta.EntityName}, {surgeryMeta.EntityName}"; // Ru-Localization
         else if (partMeta != null)
-            _window.Title = $"Surgery - {partMeta.EntityName}";
+            _window.Title = $"{Loc.GetString("surgery-ui-window-title")} - {partMeta.EntityName}"; // Ru-Localization
         else
-            _window.Title = "Surgery";
+            _window.Title = $"{Loc.GetString("surgery-ui-window-title")}"; // Ru-Localization
     }
 
     private enum ViewType

@@ -10,15 +10,12 @@ spray-painter-ammo-after-interact-refilled = Вы заправляете кра�
 spray-painter-interact-no-charges = Не хватает краски.
 spray-painter-interact-nothing-to-remove = Нечего удалять!
 spray-painter-on-examined-painted-message = Выглядит свежеокрашенным.
-spray-painter-style-not-available = Выбранный стиль нельзя применить к этому объекту.
 spray-painter-verb-toggle-decals = Переключить покраску декалей
 spray-painter-item-status-label = Декали: { $mode }
 spray-painter-item-status-add = [color=green]Добавление[/color]
 spray-painter-item-status-remove = [color=red]Удаление[/color]
 spray-painter-item-status-off = [color=gray]Выкл[/color]
 # UI
-spray-painter-window-title = Краскопульт
-spray-painter-selected-style = Выбранный стиль:
 spray-painter-selected-decals = Выбранная декаль:
 spray-painter-use-custom-color = Использовать пользовательский цвет
 spray-painter-use-snap-to-tile = Привязка к клетке
@@ -26,15 +23,6 @@ spray-painter-angle-rotation = Поворот:
 spray-painter-angle-rotation-90-sub = -90°
 spray-painter-angle-rotation-reset = 0°
 spray-painter-angle-rotation-90-add = +90°
-spray-painter-selected-color = Выбранный цвет:
-spray-painter-color-red = красный
-spray-painter-color-yellow = жёлтый
-spray-painter-color-brown = коричневый
-spray-painter-color-green = зелёный
-spray-painter-color-cyan = голубой
-spray-painter-color-blue = синий
-spray-painter-color-white = белый
-spray-painter-color-black = чёрный
 # Categories (tabs)
 spray-painter-tab-category-airlocks = Шлюзы
 spray-painter-tab-category-canisters = Канистры

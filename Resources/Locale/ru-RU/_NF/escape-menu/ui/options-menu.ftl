@@ -1,9 +1,9 @@
 ## Admin menu
 
-ui-options-enable-overlay-nf-balance = Show balance
+ui-options-enable-overlay-nf-balance = Показать баланс
 
 ## Controls menu
 
-ui-options-function-smart-equip-wallet = Smart-equip to wallet
-ui-options-function-open-wallet = Open wallet
-ui-options-function-swap-hands-previous = Swap hands (previous)
+ui-options-function-smart-equip-wallet = Умная экипировка в кошелёк
+ui-options-function-open-wallet = Открыть кошелёк
+ui-options-function-swap-hands-previous = Поменять руки (предыдущая)
